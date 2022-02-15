@@ -1,0 +1,1368 @@
+project,language,filename,blank,comment,code
+netdata,C,.\clones\netdata\database\sqlite\sqlite3.c,15427,73001,147109
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\dashboard.js,1564,1115,7661
+netdata,CSS,.\clones\netdata\web\gui\dashboard\css\bootstrap-slate-flat-3.3.7.css,0,15,7086
+netdata,CSS,.\clones\netdata\web\gui\dashboard\css\bootstrap-3.3.7.css,7,11,6742
+netdata,JSON,.\clones\netdata\package-lock.json,0,0,6320
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard_info.js,953,154,5302
+netdata,JavaScript,.\clones\netdata\web\gui\main.js,800,258,4105
+netdata,C,.\clones\netdata\collectors\cgroups.plugin\sys_fs_cgroup.c,736,241,3293
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\main.js,757,403,3119
+netdata,C,.\clones\netdata\collectors\apps.plugin\apps_plugin.c,807,437,2964
+netdata,JavaScript,.\clones\netdata\collectors\node.d.plugin\node_modules\net-snmp.js,521,109,2822
+netdata,C,.\clones\netdata\collectors\freebsd.plugin\freebsd_sysctl.c,489,122,2635
+netdata,C,.\clones\netdata\collectors\ebpf.plugin\ebpf_socket.c,448,687,2273
+netdata,JSON,.\clones\netdata\web\api\netdata-swagger.json,0,0,2125
+netdata,C,.\clones\netdata\collectors\statsd.plugin\statsd.c,441,105,2022
+netdata,C,.\clones\netdata\daemon\unit_test.c,341,83,1832
+netdata,Bourne Shell,.\clones\netdata\packaging\installer\install-required-packages.sh,338,154,1758
+netdata,C/C++ Header,.\clones\netdata\database\sqlite\sqlite3.h,329,10347,1677
+netdata,YAML,.\clones\netdata\web\api\netdata-swagger.yaml,0,0,1657
+netdata,C,.\clones\netdata\database\sqlite\sqlite_functions.c,347,48,1653
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\lib\d3pie-0.2.1-netdata-3.js,276,242,1606
+netdata,m4,.\clones\netdata\configure.ac,225,0,1582
+netdata,C,.\clones\netdata\exporting\tests\test_exporting_engine.c,397,15,1568
+netdata,C,.\clones\netdata\database\rrdset.c,360,160,1503
+netdata,C,.\clones\netdata\web\server\web_client.c,351,177,1498
+netdata,C,.\clones\netdata\collectors\freeipmi.plugin\freeipmi_plugin.c,263,111,1482
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_diskstats.c,364,154,1480
+netdata,Bourne Shell,.\clones\netdata\netdata-installer.sh,379,150,1413
+netdata,C,.\clones\netdata\database\rrdhost.c,280,103,1341
+netdata,C,.\clones\netdata\libnetdata\socket\socket.c,312,116,1305
+netdata,HTML,.\clones\netdata\web\gui\dashboard\demosites.html,150,31,1288
+netdata,HTML,.\clones\netdata\web\gui\old\index.html,37,8,1276
+netdata,C,.\clones\netdata\collectors\macos.plugin\macos_sysctl.c,173,82,1271
+netdata,C,.\clones\netdata\collectors\ebpf.plugin\ebpf.c,208,463,1237
+netdata,C,.\clones\netdata\libnetdata\libnetdata.c,186,130,1207
+netdata,Bourne Shell,.\clones\netdata\packaging\installer\kickstart.sh,183,55,1198
+netdata,C,.\clones\netdata\collectors\ebpf.plugin\ebpf_vfs.c,215,196,1195
+netdata,CMake,.\clones\netdata\CMakeLists.txt,204,192,1174
+netdata,C,.\clones\netdata\web\api\queries\query.c,268,224,1169
+netdata,make,.\clones\netdata\Makefile.am,122,6,1156
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_net_snmp6.c,128,23,1142
+netdata,C,.\clones\netdata\collectors\perf.plugin\perf_plugin.c,172,49,1131
+netdata,C,.\clones\netdata\health\health_config.c,136,17,1108
+netdata,C,.\clones\netdata\database\engine\rrdengine.c,153,87,1058
+netdata,C,.\clones\netdata\web\api\web_api_v1.c,228,55,1044
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_net_dev.c,260,54,1031
+netdata,HTML,.\clones\netdata\web\gui\dashboard\demosites2.html,88,17,1007
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_net_snmp.c,145,27,958
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml2\emitter.py,117,69,955
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml3\emitter.py,117,69,952
+netdata,C,.\clones\netdata\web\api\badges\web_buffer_svg.c,150,42,948
+netdata,C,.\clones\netdata\daemon\main.c,211,197,939
+netdata,Markdown,.\clones\netdata\web\gui\confluence\README.md,85,0,934
+netdata,C,.\clones\netdata\database\engine\pagecache.c,156,162,933
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\web_log\web_log.chart.py,122,142,930
+netdata,C,.\clones\netdata\aclk\aclk.c,175,101,916
+netdata,C/C++ Header,.\clones\netdata\database\rrd.h,308,174,899
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml2\scanner.py,222,346,890
+netdata,C,.\clones\netdata\collectors\ebpf.plugin\ebpf_process.c,191,263,888
+netdata,C,.\clones\netdata\libnetdata\eval\eval.c,219,84,887
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml3\scanner.py,222,346,881
+netdata,HTML,.\clones\netdata\web\gui\dashboard\dash-example.html,140,0,880
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_stat.c,188,32,849
+netdata,C,.\clones\netdata\collectors\xenstat.plugin\xenstat_plugin.c,184,31,849
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\postgres\postgres.chart.py,107,484,845
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\mysql\mysql.chart.py,65,70,841
+netdata,C,.\clones\netdata\collectors\tc.plugin\plugin_tc.c,227,105,831
+netdata,C,.\clones\netdata\database\sqlite\sqlite_aclk_chart.c,168,13,816
+netdata,C,.\clones\netdata\daemon\analytics.c,134,83,813
+netdata,C,.\clones\netdata\health\health.c,184,128,796
+netdata,C,.\clones\netdata\database\engine\rrdengineapi.c,123,108,791
+netdata,C,.\clones\netdata\daemon\global_statistics.c,163,28,776
+netdata,Bourne Shell,.\clones\netdata\packaging\installer\functions.sh,179,102,762
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\charting\dygraph.js,178,125,762
+netdata,C,.\clones\netdata\backends\backends.c,203,286,758
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_net_rpc_nfsd.c,111,38,743
+netdata,C,.\clones\netdata\database\sqlite\sqlite_health.c,180,34,742
+netdata,C,.\clones\netdata\aclk\aclk_otp.c,130,25,732
+netdata,C,.\clones\netdata\database\sqlite\sqlite_aclk_alert.c,186,8,714
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\elasticsearch\elasticsearch.chart.py,56,45,707
+netdata,C,.\clones\netdata\collectors\nfacct.plugin\plugin_nfacct.c,145,38,702
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\mongodb\mongodb.chart.py,76,19,691
+netdata,C,.\clones\netdata\collectors\ebpf.plugin\ebpf_apps.c,206,263,683
+netdata,C,.\clones\netdata\libnetdata\config\appconfig.c,182,48,679
+netdata,C,.\clones\netdata\database\sqlite\sqlite_aclk.c,136,30,672
+netdata,Markdown,.\clones\netdata\collectors\ebpf.plugin\README.md,239,0,663
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_net_netstat.c,167,40,662
+netdata,JavaScript,.\clones\netdata\tests\web\lib\jasmine-jquery.js,156,24,661
+netdata,C,.\clones\netdata\exporting\prometheus\prometheus.c,125,139,658
+netdata,CSS,.\clones\netdata\web\gui\dashboard\dashboard.slate.css,114,42,647
+netdata,C,.\clones\netdata\collectors\freebsd.plugin\freebsd_devstat.c,116,27,646
+netdata,Markdown,.\clones\netdata\health\REFERENCE.md,272,0,644
+netdata,C,.\clones\netdata\collectors\ebpf.plugin\ebpf_cachestat.c,151,224,642
+netdata,C,.\clones\netdata\streaming\sender.c,108,36,642
+netdata,C,.\clones\netdata\collectors\ebpf.plugin\ebpf_dcstat.c,145,211,640
+netdata,C,.\clones\netdata\collectors\plugins.d\pluginsd_parser.c,141,13,634
+netdata,CSS,.\clones\netdata\web\gui\dashboard\dashboard.css,111,41,633
+netdata,C,.\clones\netdata\backends\prometheus\backend_prometheus.c,133,32,632
+netdata,C,.\clones\netdata\collectors\proc.plugin\zfs_common.c,128,29,615
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\packages\six.py,169,71,612
+netdata,CSS,.\clones\netdata\web\gui\main.css,130,32,602
+netdata,C,.\clones\netdata\collectors\ebpf.plugin\ebpf_shm.c,115,149,596
+netdata,C,.\clones\netdata\daemon\commands.c,118,27,595
+netdata,C,.\clones\netdata\libnetdata\ebpf\ebpf.c,142,261,590
+netdata,C,.\clones\netdata\streaming\rrdpush.c,121,75,588
+netdata,C,.\clones\netdata\libnetdata\log\log.c,109,189,581
+netdata,C,.\clones\netdata\web\api\tests\valid_urls.c,180,33,577
+netdata,C,.\clones\netdata\streaming\receiver.c,76,56,575
+netdata,C,.\clones\netdata\collectors\ebpf.plugin\ebpf_fd.c,118,180,572
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml3\constructor.py,86,29,572
+netdata,HTML,.\clones\netdata\web\gui\dashboard\dashboard.html,39,89,571
+netdata,C,.\clones\netdata\database\rrdcalc.c,136,83,569
+netdata,C,.\clones\netdata\aclk\https_client.c,101,19,568
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml2\constructor.py,86,29,561
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\smartd_log\smartd_log.chart.py,100,108,560
+netdata,C,.\clones\netdata\tests\profile\benchmark-line-parsing.c,134,20,548
+netdata,C,.\clones\netdata\collectors\macos.plugin\macos_fw.c,96,48,543
+netdata,Bourne Shell,.\clones\netdata\contrib\sles11\alarm-notify-basic.bash3.sh,124,98,533
+netdata,C,.\clones\netdata\collectors\ebpf.plugin\ebpf_disk.c,132,192,527
+netdata,YAML,.\clones\netdata\.github\workflows\build.yml,10,3,521
+netdata,Bourne Shell,.\clones\netdata\packaging\makeself\makeself-header.sh,32,5,519
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_mdstat.c,120,19,513
+netdata,C,.\clones\netdata\collectors\proc.plugin\sys_fs_btrfs.c,152,76,506
+netdata,Bourne Shell,.\clones\netdata\packaging\installer\netdata-updater.sh,98,66,506
+netdata,C,.\clones\netdata\collectors\freebsd.plugin\freebsd_getifaddrs.c,105,22,500
+netdata,Bourne Shell,.\clones\netdata\packaging\makeself\makeself.sh,34,91,496
+netdata,Markdown,.\clones\netdata\streaming\README.md,234,0,496
+netdata,C,.\clones\netdata\health\health_log.c,113,25,491
+netdata,C,.\clones\netdata\database\rrddim.c,111,27,488
+netdata,Markdown,.\clones\netdata\collectors\node.d.plugin\stiebeleltron\README.md,38,0,487
+netdata,C,.\clones\netdata\collectors\proc.plugin\sys_class_infiniband.c,116,106,486
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\contrib\securetransport.py,119,204,485
+netdata,C,.\clones\netdata\tests\profile\benchmark-value-pairs.c,114,30,479
+netdata,JavaScript,.\clones\netdata\collectors\node.d.plugin\node_modules\netdata.js,126,57,471
+netdata,C,.\clones\netdata\collectors\cgroups.plugin\cgroup-network.c,146,65,470
+netdata,Markdown,.\clones\netdata\collectors\COLLECTORS.md,74,0,469
+netdata,Markdown,.\clones\netdata\HISTORICAL_CHANGELOG.md,185,0,465
+netdata,C,.\clones\netdata\collectors\ebpf.plugin\ebpf_filesystem.c,85,128,462
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\nvidia_smi\nvidia_smi.chart.py,102,8,461
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\contrib\_securetransport\bindings.py,92,38,461
+netdata,JavaScript,.\clones\netdata\collectors\node.d.plugin\named\named.node.js,82,74,454
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\dashboard-react.js,128,94,453
+netdata,C,.\clones\netdata\collectors\proc.plugin\ipc.c,92,32,452
+netdata,Markdown,.\clones\netdata\collectors\proc.plugin\README.md,158,0,449
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\oracledb\oracledb.chart.py,45,339,447
+netdata,Markdown,.\clones\netdata\web\gui\custom\README.md,158,0,447
+netdata,C,.\clones\netdata\collectors\ebpf.plugin\ebpf_swap.c,99,175,429
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\charting.js,4,61,427
+netdata,JavaScript,.\clones\netdata\collectors\node.d.plugin\node_modules\pixl-xml.js,95,87,425
+netdata,C,.\clones\netdata\database\engine\journalfile.c,69,22,425
+netdata,C,.\clones\netdata\aclk\aclk_rx_msgs.c,60,19,423
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_net_sockstat.c,107,13,418
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml2\parser.py,58,120,412
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml3\parser.py,58,120,412
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_meminfo.c,90,43,411
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\nginx_plus\nginx_plus.chart.py,57,20,410
+netdata,Markdown,.\clones\netdata\collectors\statsd.plugin\README.md,204,0,410
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\connectionpool.py,173,319,408
+netdata,Markdown,.\clones\netdata\CHANGELOG.md,109,0,406
+netdata,C,.\clones\netdata\daemon\daemon.c,81,22,401
+netdata,Markdown,.\clones\netdata\claim\README.md,151,0,400
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\units-conversion.js,54,75,399
+netdata,Markdown,.\clones\netdata\packaging\docker\README.md,98,0,394
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\util\selectors.py,101,89,392
+netdata,C,.\clones\netdata\database\engine\datafile.c,65,7,388
+netdata,Markdown,.\clones\netdata\collectors\node.d.plugin\snmp\README.md,59,0,386
+netdata,C,.\clones\netdata\health\health_json.c,61,8,386
+netdata,Bourne Shell,.\clones\netdata\packaging\installer\netdata-uninstaller.sh,83,41,375
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_net_rpc_nfs.c,60,20,374
+netdata,Markdown,.\clones\netdata\docs\guides\python-collector.md,113,0,373
+netdata,C,.\clones\netdata\exporting\read_config.c,110,28,373
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\rabbitmq\rabbitmq.chart.py,65,6,372
+netdata,Markdown,.\clones\netdata\daemon\README.md,185,0,369
+netdata,C,.\clones\netdata\collectors\ebpf.plugin\ebpf_hardirq.c,65,68,366
+netdata,C,.\clones\netdata\web\server\static\static-threaded.c,112,35,366
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\couchdb\couchdb.chart.py,23,10,365
+netdata,C,.\clones\netdata\database\engine\metadata_log\logfile.c,62,26,365
+netdata,C,.\clones\netdata\web\api\tests\web_api.c,51,61,362
+netdata,C++,.\clones\netdata\ml\Host.cc,92,9,361
+netdata,C,.\clones\netdata\libnetdata\json\json.c,62,135,359
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml2\representer.py,80,49,356
+netdata,Markdown,.\clones\netdata\docs\metrics-storage-management\reference-streaming.mdx,132,0,354
+netdata,C,.\clones\netdata\exporting\tests\exporting_doubles.c,46,1,350
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_net_wireless.c,84,21,348
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\response.py,105,170,348
+netdata,Markdown,.\clones\netdata\docs\contributing\style-guide.md,144,0,348
+netdata,C,.\clones\netdata\aclk\aclk_tx_msgs.c,93,64,343
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_spl_kstat_zfs.c,70,4,342
+netdata,C,.\clones\netdata\daemon\buildinfo.c,63,11,338
+netdata,C,.\clones\netdata\collectors\cups.plugin\cups_plugin.c,73,31,336
+netdata,C,.\clones\netdata\web\api\formatters\rrd2json.c,68,1,336
+netdata,Markdown,.\clones\netdata\exporting\prometheus\README.md,127,0,334
+netdata,Markdown,.\clones\netdata\backends\prometheus\README.md,125,0,332
+netdata,C,.\clones\netdata\collectors\proc.plugin\sys_class_power_supply.c,64,14,332
+netdata,JavaScript,.\clones\netdata\collectors\node.d.plugin\fronius\fronius.node.js,50,22,328
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\utils.js,62,46,324
+netdata,Bourne Shell,.\clones\netdata\daemon\system-info.sh,49,37,322
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_net_sctp_snmp.c,47,7,319
+netdata,C,.\clones\netdata\exporting\send_data.c,68,58,319
+netdata,C,.\clones\netdata\aclk\aclk_query.c,49,23,318
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\charting\gauge.js,52,37,317
+netdata,C,.\clones\netdata\aclk\aclk_util.c,62,24,316
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\hpssa\hpssa.chart.py,58,21,316
+netdata,C,.\clones\netdata\libnetdata\avl\avl.c,62,42,316
+netdata,Markdown,.\clones\netdata\collectors\plugins.d\README.md,175,0,309
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\haproxy\haproxy.chart.py,34,17,309
+netdata,C,.\clones\netdata\libnetdata\statistical\statistical.c,102,41,309
+netdata,Markdown,.\clones\netdata\collectors\node.d.plugin\named\README.md,40,0,308
+netdata,Python,.\clones\netdata\tests\api\fuzzer.py,43,28,307
+netdata,C,.\clones\netdata\libnetdata\procfile\procfile.c,106,60,306
+netdata,C,.\clones\netdata\registry\registry.c,96,49,305
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\proxysql\proxysql.chart.py,41,7,304
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\anomalies\anomalies.chart.py,59,64,303
+netdata,C,.\clones\netdata\libnetdata\buffer\buffer.c,96,27,303
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\ntpd\ntpd.chart.py,45,39,301
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\varnish\varnish.chart.py,57,27,301
+netdata,C,.\clones\netdata\collectors\plugins.d\plugins_d.c,76,27,300
+netdata,C,.\clones\netdata\spawn\spawn_server.c,61,16,300
+netdata,Markdown,.\clones\netdata\BUILD.md,67,0,298
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\third_party\boinc_client.py,83,135,297
+netdata,JavaScript,.\clones\netdata\collectors\node.d.plugin\snmp\snmp.node.js,89,144,294
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\charting\d3pie.js,34,15,292
+netdata,C,.\clones\netdata\collectors\freebsd.plugin\freebsd_ipfw.c,63,18,291
+netdata,Markdown,.\clones\netdata\collectors\apps.plugin\README.md,110,0,289
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_net_stat_conntrack.c,54,8,289
+netdata,Markdown,.\clones\netdata\docs\guides\step-by-step\step-08.md,106,0,289
+netdata,C,.\clones\netdata\exporting\opentsdb\opentsdb.c,68,68,288
+netdata,SVG,.\clones\netdata\web\gui\dashboard\fonts\glyphicons-halflings-regular.svg,0,1,288
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\alarms.js,81,53,288
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\contrib\pyopenssl.py,89,84,285
+netdata,C,.\clones\netdata\aclk\aclk_stats.c,74,7,276
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml3\representer.py,63,36,276
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\ceph\ceph.chart.py,31,68,275
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\riakkv\riakkv.chart.py,18,41,275
+netdata,m4,.\clones\netdata\build\m4\ax_pthread.m4,34,0,274
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\monit\monit.chart.py,70,19,271
+netdata,C++,.\clones\netdata\aclk\schema-wrappers\chart_stream.cc,72,1,269
+netdata,C/C++ Header,.\clones\netdata\libnetdata\libnetdata.h,70,15,269
+netdata,C,.\clones\netdata\exporting\mongodb\mongodb.c,79,44,266
+netdata,C,.\clones\netdata\exporting\process_data.c,57,105,266
+netdata,Bourne Shell,.\clones\netdata\collectors\charts.d.plugin\opensips\opensips.chart.sh,35,27,263
+netdata,C,.\clones\netdata\libnetdata\simple_pattern\simple_pattern.c,66,38,261
+netdata,C,.\clones\netdata\collectors\ebpf.plugin\ebpf_oomkill.c,49,100,259
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\mysql\README.md,137,0,259
+netdata,C/C++ Header,.\clones\netdata\libnetdata\inlined.h,56,3,259
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\bases\charts.py,99,58,258
+netdata,C,.\clones\netdata\collectors\slabinfo.plugin\slabinfo.c,70,65,257
+netdata,C,.\clones\netdata\database\engine\rrdenginelib.c,24,13,257
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\registry.js,39,16,256
+netdata,C,.\clones\netdata\collectors\proc.plugin\sys_block_zram.c,27,10,255
+netdata,Markdown,.\clones\netdata\docs\Running-behind-apache.md,117,0,254
+netdata,C,.\clones\netdata\collectors\ebpf.plugin\ebpf_sync.c,60,102,252
+netdata,Markdown,.\clones\netdata\docs\guides\step-by-step\step-05.md,98,0,252
+netdata,C,.\clones\netdata\streaming\compression.c,37,56,252
+netdata,C/C++ Header,.\clones\netdata\collectors\all.h,77,40,250
+netdata,C,.\clones\netdata\libnetdata\popen\popen.c,59,34,250
+netdata,C,.\clones\netdata\libnetdata\socket\security.c,41,95,250
+netdata,C,.\clones\netdata\registry\registry_db.c,69,29,248
+netdata,C,.\clones\netdata\web\api\formatters\json_wrapper.c,46,12,247
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_self_mountinfo.c,71,99,246
+netdata,C,.\clones\netdata\libnetdata\locks\locks.c,90,7,246
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_vmstat.c,56,17,243
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\bases\FrameworkServices\SocketService.py,38,55,243
+netdata,HTML,.\clones\netdata\web\gui\dashboard\tv-react.html,28,18,241
+netdata,HTML,.\clones\netdata\web\gui\dashboard\tv.html,28,11,240
+netdata,C,.\clones\netdata\exporting\json\json.c,73,52,239
+netdata,JavaScript,.\clones\netdata\collectors\node.d.plugin\node_modules\lib\ber\writer.js,72,9,237
+netdata,C/C++ Header,.\clones\netdata\exporting\exporting_engine.h,76,1,237
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\go_expvar\README.md,83,0,236
+netdata,Markdown,.\clones\netdata\exporting\README.md,78,0,236
+netdata,C/C++ Header,.\clones\netdata\collectors\ebpf.plugin\ebpf_socket.h,67,32,235
+netdata,C,.\clones\netdata\libnetdata\clocks\clocks.c,56,9,235
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\charting\easy-pie-chart.js,39,10,232
+netdata,C,.\clones\netdata\libnetdata\json\jsmn.c,20,78,230
+netdata,JavaScript,.\clones\netdata\tests\node.d\fronius.parse.spec.js,81,22,230
+netdata,make,.\clones\netdata\collectors\python.d.plugin\Makefile.am,24,2,229
+netdata,C,.\clones\netdata\libnetdata\url\url.c,52,110,229
+netdata,Markdown,.\clones\netdata\docs\guides\monitor\process.md,73,0,228
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\connection.py,71,76,227
+netdata,Markdown,.\clones\netdata\web\api\badges\README.md,136,0,227
+netdata,C,.\clones\netdata\collectors\freebsd.plugin\freebsd_getmntinfo.c,65,16,224
+netdata,C,.\clones\netdata\database\rrdvar.c,66,16,223
+netdata,C,.\clones\netdata\tests\profile\benchmark-procfile-parser.c,78,28,223
+netdata,C,.\clones\netdata\exporting\prometheus\remote_write\remote_write.c,56,69,222
+netdata,C,.\clones\netdata\libnetdata\dictionary\dictionary.c,86,22,221
+netdata,C/C++ Header,.\clones\netdata\collectors\ebpf.plugin\ebpf.h,47,16,220
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_net_sockstat6.c,55,8,220
+netdata,C,.\clones\netdata\daemon\signals.c,40,25,220
+netdata,m4,.\clones\netdata\build\m4\ax_gcc_func_attribute.m4,5,0,218
+netdata,HTML,.\clones\netdata\web\gui\dashboard\goto-host-from-alarm.html,31,1,218
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\beanstalk\beanstalk.chart.py,28,7,217
+netdata,C,.\clones\netdata\parser\parser.c,64,41,217
+netdata,C,.\clones\netdata\collectors\ebpf.plugin\ebpf_mdflush.c,53,55,216
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_pagetypeinfo.c,68,49,216
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\redis\redis.chart.py,32,20,216
+netdata,Markdown,.\clones\netdata\docs\guides\monitor\statsd.md,82,0,216
+netdata,Markdown,.\clones\netdata\docs\Running-behind-haproxy.md,78,0,215
+netdata,C,.\clones\netdata\spawn\spawn.c,49,30,210
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\isc_dhcpd\isc_dhcpd.chart.py,51,12,206
+netdata,Markdown,.\clones\netdata\collectors\cgroups.plugin\README.md,83,0,204
+netdata,C,.\clones\netdata\collectors\ebpf.plugin\ebpf_cgroup.c,52,92,204
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\poolmanager.py,90,147,204
+netdata,C,.\clones\netdata\collectors\macos.plugin\macos_mach_smi.c,30,8,203
+netdata,C,.\clones\netdata\registry\registry_internals.c,77,54,201
+netdata,C,.\clones\netdata\spawn\spawn_client.c,35,4,201
+netdata,C,.\clones\netdata\collectors\ebpf.plugin\ebpf_softirq.c,45,33,200
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\megacli\megacli.chart.py,73,5,200
+netdata,Markdown,.\clones\netdata\docs\guides\monitor\anomaly-detection.md,75,0,199
+netdata,C/C++ Header,.\clones\netdata\collectors\ebpf.plugin\ebpf_apps.h,75,166,198
+netdata,C,.\clones\netdata\exporting\tests\netdata_doubles.c,46,3,198
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\third_party\filelock.py,88,166,197
+netdata,Markdown,.\clones\netdata\exporting\WALKTHROUGH.md,69,0,197
+netdata,C/C++ Header,.\clones\netdata\database\sqlite\sqlite_aclk.h,34,3,196
+netdata,Markdown,.\clones\netdata\docs\Running-behind-nginx.md,77,0,193
+netdata,Markdown,.\clones\netdata\docs\guides\troubleshoot\monitor-debug-applications-ebpf.md,77,0,193
+netdata,C++,.\clones\netdata\ml\Tests.cc,53,55,193
+netdata,C,.\clones\netdata\web\server\web_client_cache.c,50,27,192
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\openldap\openldap.chart.py,20,5,191
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\third_party\lm_sensors.py,104,32,191
+netdata,Bourne Shell,.\clones\netdata\packaging\makeself\install-or-update.sh,54,26,191
+netdata,Markdown,.\clones\netdata\backends\WALKTHROUGH.md,68,0,190
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\rethinkdbs\rethinkdbs.chart.py,46,11,190
+netdata,Markdown,.\clones\netdata\ml\README.md,74,0,190
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\precache-manifest.55bf0765e4092267255469aff90b2f26.js,0,0,190
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\README.md,84,0,189
+netdata,Markdown,.\clones\netdata\packaging\installer\methods\source.md,48,0,189
+netdata,C,.\clones\netdata\web\api\formatters\json\json.c,46,19,189
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_interrupts.c,46,14,188
+netdata,C,.\clones\netdata\database\engine\rrdenglocking.c,24,29,188
+netdata,Markdown,.\clones\netdata\README.md,59,0,187
+netdata,C++,.\clones\netdata\aclk\schema-wrappers\alarm_stream.cc,57,4,187
+netdata,Markdown,.\clones\netdata\database\engine\README.md,72,0,187
+netdata,Markdown,.\clones\netdata\docs\guides\monitor\kubernetes-k8s-netdata.md,67,0,187
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\adaptec_raid\adaptec_raid.chart.py,56,5,186
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\contrib\_securetransport\low_level.py,52,106,186
+netdata,C,.\clones\netdata\registry\registry_person.c,60,22,185
+netdata,make,.\clones\netdata\web\gui\dashboard\Makefile.am,10,3,185
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\go_expvar\go_expvar.chart.py,42,27,184
+netdata,C,.\clones\netdata\collectors\proc.plugin\plugin_proc.c,61,27,183
+netdata,C/C++ Header,.\clones\netdata\database\engine\rrdengine.h,38,16,183
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\util\ssl_.py,57,99,182
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\_collections.py,63,71,181
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\util\retry.py,99,123,180
+netdata,Markdown,.\clones\netdata\docs\guides\configure\performance.md,62,0,179
+netdata,C/C++ Header,.\clones\netdata\libnetdata\ebpf\ebpf.h,40,34,179
+netdata,YAML,.\clones\netdata\.github\workflows\packaging.yml,0,4,178
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\packages\ordered_dict.py,40,42,178
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\contrib\appengine.py,63,57,177
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_softirqs.c,51,15,176
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\anomalies\README.md,68,0,176
+netdata,Markdown,.\clones\netdata\docs\guides\monitor\lamp-stack.md,71,0,176
+netdata,Markdown,.\clones\netdata\web\server\README.md,69,0,176
+netdata,C,.\clones\netdata\backends\opentsdb\opentsdb.c,27,3,175
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\bind_rndc\bind_rndc.chart.py,31,46,175
+netdata,JavaScript,.\clones\netdata\collectors\node.d.plugin\sma_webbox\sma_webbox.node.js,32,33,174
+netdata,Markdown,.\clones\netdata\daemon\config\README.md,57,0,173
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\bases\FrameworkServices\SimpleService.py,49,36,171
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml2\__init__.py,34,111,171
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\traefik\traefik.chart.py,23,4,171
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml2\resolver.py,24,31,170
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml3\resolver.py,24,31,170
+netdata,Markdown,.\clones\netdata\packaging\installer\methods\manual.md,77,0,170
+netdata,Bourne Shell,.\clones\netdata\collectors\cgroups.plugin\cgroup-network-helper.sh,70,69,169
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\changefinder\README.md,49,0,169
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\common.js,46,34,169
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml3\__init__.py,34,111,168
+netdata,Markdown,.\clones\netdata\web\README.md,68,0,168
+netdata,C,.\clones\netdata\aclk\aclk_query_queue.c,27,8,167
+netdata,Markdown,.\clones\netdata\collectors\node.d.plugin\README.md,69,0,167
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\memcached\memcached.chart.py,15,15,167
+netdata,C,.\clones\netdata\database\rrdlabels.c,31,6,166
+netdata,C,.\clones\netdata\exporting\init_connectors.c,30,18,166
+netdata,C++,.\clones\netdata\exporting\pubsub\pubsub_publish.cc,45,47,166
+netdata,C,.\clones\netdata\web\api\formatters\charts2json.c,24,3,165
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\tomcat\tomcat.chart.py,23,12,164
+netdata,Markdown,.\clones\netdata\backends\README.md,73,0,163
+netdata,C,.\clones\netdata\collectors\proc.plugin\sys_devices_system_edac_mc.c,42,3,163
+netdata,Markdown,.\clones\netdata\docs\guides\step-by-step\step-10.md,69,0,163
+netdata,Markdown,.\clones\netdata\docs\guides\using-host-labels.md,49,0,163
+netdata,C,.\clones\netdata\libnetdata\adaptive_resortable_list\adaptive_resortable_list.c,64,53,163
+netdata,C,.\clones\netdata\tests\profile\benchmark-registry.c,53,11,163
+netdata,Bourne Shell,.\clones\netdata\collectors\charts.d.plugin\nut\nut.chart.sh,44,26,162
+netdata,C,.\clones\netdata\libnetdata\os.c,56,12,162
+netdata,C,.\clones\netdata\collectors\freebsd.plugin\freebsd_kstat_zfs.c,27,117,160
+netdata,Markdown,.\clones\netdata\docs\guides\monitor-hadoop-cluster.md,43,0,160
+netdata,C,.\clones\netdata\exporting\exporting_engine.c,34,23,160
+netdata,C,.\clones\netdata\libnetdata\threads\threads.c,61,20,160
+netdata,Markdown,.\clones\netdata\packaging\installer\README.md,63,0,160
+netdata,C,.\clones\netdata\cli\cli.c,37,5,159
+netdata,JavaScript,.\clones\netdata\collectors\node.d.plugin\node_modules\lib\ber\reader.js,80,31,159
+netdata,Bourne Shell,.\clones\netdata\collectors\charts.d.plugin\sensors\sensors.chart.sh,51,41,158
+netdata,Bourne Shell,.\clones\netdata\packaging\installer\dependencies\centos.sh,21,6,158
+netdata,C/C++ Header,.\clones\netdata\exporting\tests\test_exporting_engine.h,37,9,157
+netdata,C/C++ Header,.\clones\netdata\libnetdata\socket\socket.h,41,9,157
+netdata,C,.\clones\netdata\claim\claim.c,28,16,156
+netdata,C/C++ Header,.\clones\netdata\database\engine\pagecache.h,36,41,156
+netdata,YAML,.\clones\netdata\.github\workflows\review.yml,5,1,155
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\litespeed\litespeed.chart.py,24,9,155
+netdata,C,.\clones\netdata\collectors\ebpf.plugin\ebpf_mount.c,48,63,154
+netdata,JavaScript,.\clones\netdata\collectors\node.d.plugin\stiebeleltron\stiebeleltron.node.js,29,14,154
+netdata,Markdown,.\clones\netdata\web\api\health\README.md,71,0,154
+netdata,Bourne Shell,.\clones\netdata\collectors\charts.d.plugin\apcupsd\apcupsd.chart.sh,40,21,152
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\bases\FrameworkServices\UrlService.py,25,30,152
+netdata,Markdown,.\clones\netdata\docs\netdata-security.md,77,0,152
+netdata,C,.\clones\netdata\exporting\graphite\graphite.c,37,41,152
+netdata,HTML,.\clones\netdata\web\gui\dashboard\infographic.html,17,2,152
+netdata,C,.\clones\netdata\exporting\aws_kinesis\aws_kinesis.c,45,21,151
+netdata,C/C++ Header,.\clones\netdata\web\server\web_client.h,53,14,151
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_pressure.c,26,2,150
+netdata,C,.\clones\netdata\aclk\aclk_proxy.c,31,6,149
+netdata,C,.\clones\netdata\collectors\freebsd.plugin\plugin_freebsd.c,46,16,149
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\spigotmc\spigotmc.chart.py,20,15,149
+netdata,C,.\clones\netdata\daemon\static_threads.c,12,1,148
+netdata,C/C++ Header,.\clones\netdata\streaming\rrdpush.h,21,5,148
+netdata,C,.\clones\netdata\collectors\proc.plugin\sys_kernel_mm_ksm.c,40,15,146
+netdata,Markdown,.\clones\netdata\database\README.md,69,0,146
+netdata,Markdown,.\clones\netdata\docs\configure\common-changes.md,68,0,146
+netdata,Markdown,.\clones\netdata\registry\README.md,68,0,146
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\sensors\sensors.chart.py,13,6,144
+netdata,C,.\clones\netdata\backends\mongodb\mongodb.c,45,1,143
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\charting\sparkline.js,9,3,143
+netdata,Markdown,.\clones\netdata\packaging\installer\methods\kubernetes.md,55,0,142
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml3\reader.py,20,32,141
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\web_log\README.md,78,0,141
+netdata,C/C++ Header,.\clones\netdata\database\rrdcalc.h,48,34,141
+netdata,Markdown,.\clones\netdata\docs\guides\monitor\anomaly-detection-python.md,48,0,141
+netdata,Markdown,.\clones\netdata\docs\guides\step-by-step\step-02.md,68,0,140
+netdata,C,.\clones\netdata\web\api\health\health_cmdapi.c,17,48,140
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\mongodb\README.md,71,0,139
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml2\reader.py,20,32,139
+netdata,C,.\clones\netdata\collectors\timex.plugin\plugin_timex.c,34,4,138
+netdata,Markdown,.\clones\netdata\collectors\REFERENCE.md,45,0,137
+netdata,Bourne Shell,.\clones\netdata\collectors\charts.d.plugin\ap\ap.chart.sh,21,21,137
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\boinc\boinc.chart.py,19,12,137
+netdata,Markdown,.\clones\netdata\packaging\PLATFORM_SUPPORT.md,38,0,137
+netdata,Markdown,.\clones\netdata\collectors\freeipmi.plugin\README.md,58,0,136
+netdata,Bourne Shell,.\clones\netdata\packaging\installer\dependencies\rockylinux.sh,20,6,136
+netdata,Markdown,.\clones\netdata\web\api\formatters\json\README.md,20,0,136
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\fail2ban\fail2ban.chart.py,47,35,135
+netdata,C,.\clones\netdata\web\api\formatters\rrdset2json.c,28,2,135
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\freeradius\freeradius.chart.py,28,15,134
+netdata,Markdown,.\clones\netdata\docs\quickstart\infrastructure.md,51,0,134
+netdata,C,.\clones\netdata\collectors\cgroups.plugin\tests\test_doubles.c,28,1,133
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\powerdns\powerdns.chart.py,15,5,133
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\bases\loggers.py,50,23,133
+netdata,Markdown,.\clones\netdata\docs\guides\export\export-netdata-metrics-graphite.md,50,0,133
+netdata,JavaScript,.\clones\netdata\tests\node.d\fronius.chart.spec.js,26,3,133
+netdata,C,.\clones\netdata\exporting\pubsub\pubsub.c,41,21,132
+netdata,HTML,.\clones\netdata\web\gui\dashboard\demo2.html,8,3,132
+netdata,Markdown,.\clones\netdata\collectors\tc.plugin\README.md,74,0,131
+netdata,Markdown,.\clones\netdata\docs\guides\monitor\dimension-templates.md,45,0,131
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\options.js,55,39,131
+netdata,Markdown,.\clones\netdata\collectors\charts.d.plugin\README.md,68,0,130
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\springboot\springboot.chart.py,22,8,130
+netdata,C++,.\clones\netdata\exporting\prometheus\remote_write\remote_write_request.cc,36,60,130
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\localstorage.js,30,13,130
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\energid\energid.chart.py,16,18,129
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\uwsgi\uwsgi.chart.py,21,27,129
+netdata,YAML,.\clones\netdata\.github\workflows\docker.yml,2,0,128
+netdata,C,.\clones\netdata\collectors\proc.plugin\sys_devices_system_node.c,35,1,128
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\exceptions.py,85,34,128
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\apache\apache.chart.py,25,8,126
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\dovecot\dovecot.chart.py,9,8,126
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\phpfpm\phpfpm.chart.py,23,25,126
+netdata,Markdown,.\clones\netdata\docs\guides\deploy\ansible.md,48,0,126
+netdata,C/C++ Header,.\clones\netdata\ml\BitRateWindow.h,38,6,126
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\changefinder\changefinder.chart.py,39,21,125
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\gearman\gearman.chart.py,58,60,125
+netdata,C,.\clones\netdata\database\rrddimvar.c,61,31,125
+netdata,C,.\clones\netdata\exporting\tests\exporting_fixtures.c,41,1,125
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\ipfs\ipfs.chart.py,13,13,123
+netdata,C,.\clones\netdata\libnetdata\storage_number\storage_number.c,53,86,123
+netdata,Bourne Shell,.\clones\netdata\packaging\installer\dependencies\freebsd.sh,18,4,123
+netdata,Bourne Shell,.\clones\netdata\coverity-scan.sh,36,46,122
+netdata,C++,.\clones\netdata\aclk\schema-wrappers\alarm_config.cc,25,1,121
+netdata,C,.\clones\netdata\backends\json\json.c,28,3,121
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_net_stat_synproxy.c,29,6,121
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\dnsdist\dnsdist.chart.py,8,2,121
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\contrib\socks.py,32,36,121
+netdata,Markdown,.\clones\netdata\docs\configure\nodes.md,45,0,121
+netdata,JavaScript,.\clones\netdata\tests\node.d\fronius.validation.spec.js,32,3,120
+netdata,Markdown,.\clones\netdata\web\gui\README.md,49,0,120
+netdata,Markdown,.\clones\netdata\.travis\README.md,30,0,119
+netdata,C,.\clones\netdata\database\rrdcalctemplate.c,27,9,119
+netdata,C++,.\clones\netdata\ml\ml.cc,40,6,119
+netdata,Bourne Shell,.\clones\netdata\packaging\installer\dependencies\ol.sh,20,5,119
+netdata,C,.\clones\netdata\web\api\exporters\shell\allmetrics_shell.c,36,9,119
+netdata,C,.\clones\netdata\aclk\aclk_collector_list.c,37,38,118
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_net_softnet_stat.c,28,5,118
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\zscores\README.md,28,0,118
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\bases\FrameworkServices\MySQLService.py,28,18,117
+netdata,C,.\clones\netdata\database\rrdsetvar.c,45,27,117
+netdata,C,.\clones\netdata\tests\profile\statsd-stress.c,30,4,117
+netdata,Markdown,.\clones\netdata\web\api\queries\README.md,59,0,117
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\dns_query_time\dns_query_time.chart.py,29,4,116
+netdata,Markdown,.\clones\netdata\docs\guides\step-by-step\step-09.md,46,0,116
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\boot.js,20,6,116
+netdata,Markdown,.\clones\netdata\docs\guides\collect-apache-nginx-web-logs.md,47,0,115
+netdata,Markdown,.\clones\netdata\docs\guides\longer-metrics-storage.md,45,0,115
+netdata,Markdown,.\clones\netdata\REDISTRIBUTED.md,69,0,114
+netdata,C,.\clones\netdata\collectors\macos.plugin\plugin_macos.c,36,7,114
+netdata,Markdown,.\clones\netdata\docs\guides\monitor\pi-hole-raspberry-pi.md,48,0,114
+netdata,Markdown,.\clones\netdata\web\api\formatters\csv\README.md,30,0,114
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\charting\google-charts.js,10,8,114
+netdata,YAML,.\clones\netdata\.travis.yml,24,20,113
+netdata,C,.\clones\netdata\database\engine\metadata_log\metalogpluginsd.c,26,1,113
+netdata,Markdown,.\clones\netdata\docs\monitor\configure-alarms.md,35,0,113
+netdata,C,.\clones\netdata\libnetdata\health\health.c,17,43,113
+netdata,m4,.\clones\netdata\build\m4\ax_check_enable_debug.m4,10,0,112
+netdata,Markdown,.\clones\netdata\packaging\installer\methods\kickstart.md,43,0,112
+netdata,C,.\clones\netdata\web\server\web_server.c,38,9,112
+netdata,C/C++ Header,.\clones\netdata\collectors\ebpf.plugin\ebpf_vfs.h,30,10,111
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\springboot\README.md,34,0,111
+netdata,C++,.\clones\netdata\ml\Dimension.cc,42,16,111
+netdata,Bourne Shell,.\clones\netdata\backends\nc-backend.sh,37,11,110
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\portcheck\portcheck.chart.py,21,26,110
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\util\url.py,51,70,110
+netdata,Markdown,.\clones\netdata\docs\guides\step-by-step\step-01.md,46,0,110
+netdata,Markdown,.\clones\netdata\docs\metrics-storage-management\enable-streaming.mdx,41,0,110
+netdata,Bourne Shell,.\clones\netdata\exporting\nc-exporting.sh,37,11,110
+netdata,C,.\clones\netdata\web\api\exporters\allmetrics.c,16,2,109
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\samba\samba.chart.py,15,21,108
+netdata,Markdown,.\clones\netdata\docs\monitor\enable-notifications.md,39,0,108
+netdata,Markdown,.\clones\netdata\health\QUICKSTART.md,35,0,108
+netdata,C/C++ Header,.\clones\netdata\ml\kmeans\SamplesBuffer.h,32,1,108
+netdata,Markdown,.\clones\netdata\parser\README.md,42,0,107
+netdata,Markdown,.\clones\netdata\collectors\node.d.plugin\fronius\README.md,29,0,106
+netdata,Markdown,.\clones\netdata\docs\guides\monitor\visualize-monitor-anomalies.md,36,0,106
+netdata,C,.\clones\netdata\web\api\formatters\csv\csv.c,25,12,106
+netdata,C/C++ Header,.\clones\netdata\collectors\proc.plugin\zfs_common.h,7,3,105
+netdata,Markdown,.\clones\netdata\docs\guides\collect-unbound-metrics.md,36,0,104
+netdata,Bourne Shell,.\clones\netdata\collectors\charts.d.plugin\libreswan\libreswan.chart.sh,39,45,103
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\zscores\zscores.chart.py,26,17,103
+netdata,C/C++ Header,.\clones\netdata\ml\Database.h,27,1,103
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_net_ip_vs_stats.c,25,6,102
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml2\composer.py,22,16,102
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml3\composer.py,22,16,102
+netdata,Markdown,.\clones\netdata\docs\guides\monitor-cockroachdb.md,34,0,102
+netdata,Markdown,.\clones\netdata\build_external\README.md,27,0,101
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\nginx_plus\README.md,66,0,99
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\third_party\monotonic.py,46,56,99
+netdata,C++,.\clones\netdata\ml\Database.cc,25,3,99
+netdata,Bourne Shell,.\clones\netdata\packaging\installer\dependencies\fedora.sh,14,6,99
+netdata,YAML,.\clones\netdata\.codeclimate.yml,0,0,98
+netdata,YAML,.\clones\netdata\.github\ISSUE_TEMPLATE\BUG_REPORT.yml,0,4,98
+netdata,JSON,.\clones\netdata\.github\data\build-matrix.json,0,0,98
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_loadavg.c,25,8,98
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\ovpn_status_log\ovpn_status_log.chart.py,23,15,98
+netdata,C,.\clones\netdata\database\rrd.c,45,17,98
+netdata,Markdown,.\clones\netdata\docs\dashboard\interact-charts.mdx,42,0,98
+netdata,C/C++ Header,.\clones\netdata\parser\parser.h,18,2,98
+netdata,Markdown,.\clones\netdata\aclk\README.md,40,0,97
+netdata,C/C++ Header,.\clones\netdata\aclk\schema-wrappers\alarm_stream.h,34,3,97
+netdata,C++,.\clones\netdata\ml\kmeans\Tests.cc,29,17,97
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\httpcheck\httpcheck.chart.py,18,11,96
+netdata,Markdown,.\clones\netdata\docs\guides\step-by-step\step-04.md,48,0,96
+netdata,C,.\clones\netdata\tests\ebpf\sync_tester.c,23,1,96
+netdata,Pascal,.\clones\netdata\collectors\charts.d.plugin\loopsleepms.sh.inc,42,90,95
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\chrony\chrony.chart.py,13,10,95
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml2\serializer.py,14,3,95
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml3\serializer.py,14,3,95
+netdata,Markdown,.\clones\netdata\docs\visualize\interact-dashboards-charts.md,36,0,95
+netdata,C++,.\clones\netdata\ml\kmeans\SamplesBuffer.cc,33,16,95
+netdata,C,.\clones\netdata\registry\registry_init.c,36,17,95
+netdata,C,.\clones\netdata\registry\registry_log.c,26,15,95
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\squid\squid.chart.py,16,13,94
+netdata,C,.\clones\netdata\exporting\send_internal_metrics.c,46,32,94
+netdata,YAML,.\clones\netdata\.github\workflows\tests.yml,1,4,92
+netdata,C,.\clones\netdata\collectors\checks.plugin\plugin_checks.c,23,10,92
+netdata,Markdown,.\clones\netdata\docs\configure\secure-nodes.md,31,0,92
+netdata,make,.\clones\netdata\health\Makefile.am,7,2,92
+netdata,C/C++ Header,.\clones\netdata\libnetdata\config\appconfig.h,36,82,92
+netdata,Markdown,.\clones\netdata\packaging\installer\methods\cloud-providers.md,34,0,92
+netdata,Markdown,.\clones\netdata\tests\README.md,56,0,92
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\beanstalk\README.md,42,0,91
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\riakkv\README.md,37,0,91
+netdata,C,.\clones\netdata\tests\profile\benchmark-dictionary.c,24,15,91
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\charting\_c3.js,13,10,91
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\nsd\nsd.chart.py,11,4,90
+netdata,JavaScript,.\clones\netdata\tests\web\easypiechart.percentage.spec.js,51,1,90
+netdata,C++,.\clones\netdata\backends\prometheus\remote_write\remote_write.cc,29,2,89
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\third_party\ordereddict.py,18,3,89
+netdata,Bourne Shell,.\clones\netdata\packaging\installer\dependencies\debian.sh,12,5,88
+netdata,YAML,.\clones\netdata\.clang-format,3,28,87
+netdata,C/C++ Header,.\clones\netdata\aclk\schema-wrappers\chart_stream.h,33,1,87
+netdata,C++,.\clones\netdata\exporting\aws_kinesis\aws_kinesis_put_record.cc,25,39,87
+netdata,C/C++ Header,.\clones\netdata\libnetdata\log\log.h,20,3,87
+netdata,Bourne Shell,.\clones\netdata\packaging\installer\dependencies\ubuntu.sh,11,4,87
+netdata,C/C++ Header,.\clones\netdata\web\api\queries\rrdr.h,25,5,87
+netdata,Markdown,.\clones\netdata\docs\guides\monitor\raspberry-pi-anomaly-detection.md,39,0,86
+netdata,Markdown,.\clones\netdata\packaging\installer\UPDATE.md,34,0,86
+netdata,Markdown,.\clones\netdata\packaging\installer\methods\freebsd.md,23,0,85
+netdata,C,.\clones\netdata\web\api\queries\des\des.c,32,22,85
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\packages\ssl_match_hostname\_implementation.py,22,50,84
+netdata,Markdown,.\clones\netdata\docs\dashboard\visualization-date-and-time-controls.mdx,37,0,84
+netdata,C/C++ Header,.\clones\netdata\ml\Dimension.h,39,1,84
+netdata,Bourne Shell,.\clones\netdata\packaging\installer\dependencies\arch.sh,12,5,84
+netdata,Bourne Shell,.\clones\netdata\packaging\installer\dependencies\opensuse.sh,12,7,84
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\lib\dygraph-smooth-plotter-c91c859.js,16,41,84
+netdata,C/C++ Header,.\clones\netdata\libnetdata\clocks\clocks.h,33,53,83
+netdata,Bourne Shell,.\clones\netdata\packaging\installer\dependencies\alpine.sh,12,4,83
+netdata,Bourne Shell,.\clones\netdata\packaging\installer\dependencies\gentoo.sh,11,5,83
+netdata,C,.\clones\netdata\web\api\queries\stddev\stddev.c,39,54,83
+netdata,YAML,.\clones\netdata\.github\workflows\repoconfig-packages.yml,0,6,82
+netdata,C++,.\clones\netdata\aclk\schema-wrappers\chart_config.cc,18,5,82
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\puppet\puppet.chart.py,18,21,82
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\samba\README.md,39,0,82
+netdata,make,.\clones\netdata\contrib\debian\rules,27,26,82
+netdata,Markdown,.\clones\netdata\docs\guides\step-by-step\step-06.md,40,0,82
+netdata,make,.\clones\netdata\web\gui\Makefile.am,12,5,82
+netdata,YAML,.\clones\netdata\.github\labeler.yml,19,11,80
+netdata,Markdown,.\clones\netdata\docs\contributing\contributing-documentation.md,29,0,80
+netdata,Markdown,.\clones\netdata\docs\dashboard\how-dashboard-works.mdx,32,0,80
+netdata,Markdown,.\clones\netdata\docs\get-started.mdx,27,0,80
+netdata,Bourne Shell,.\clones\netdata\.github\scripts\pkg-test.sh,33,16,79
+netdata,C/C++ Header,.\clones\netdata\aclk\aclk_query_queue.h,18,7,79
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml3\tokens.py,23,3,79
+netdata,C/C++ Header,.\clones\netdata\database\sqlite\sqlite_functions.h,20,2,79
+netdata,Markdown,.\clones\netdata\docs\visualize\overview-infrastructure.md,32,0,79
+netdata,Dockerfile,.\clones\netdata\packaging\docker\Dockerfile,20,23,79
+netdata,C/C++ Header,.\clones\netdata\aclk\aclk_util.h,20,5,78
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\fields.py,32,69,78
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\rabbitmq\README.md,38,0,78
+netdata,C/C++ Header,.\clones\netdata\spawn\spawn.h,23,8,78
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\tor\tor.chart.py,24,6,77
+netdata,Bourne Shell,.\clones\netdata\contrib\debian\install_go.sh,15,6,77
+netdata,Markdown,.\clones\netdata\docs\collect\container-metrics.md,22,0,77
+netdata,Markdown,.\clones\netdata\packaging\installer\methods\macos.md,34,0,77
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\postgres\README.md,42,0,76
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\util\timeout.py,53,114,76
+netdata,Markdown,.\clones\netdata\docs\anonymous-statistics.md,33,0,76
+netdata,Markdown,.\clones\netdata\health\notifications\custom\README.md,16,0,76
+netdata,C/C++ Header,.\clones\netdata\web\api\formatters\rrd2json.h,14,2,76
+netdata,C,.\clones\netdata\aclk\aclk_api.c,15,1,75
+netdata,Markdown,.\clones\netdata\collectors\charts.d.plugin\ap\README.md,24,0,75
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\oracledb\README.md,22,0,75
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\contrib\ntlmpool.py,18,20,75
+netdata,C/C++ Header,.\clones\netdata\database\engine\rrdenginelib.h,20,7,75
+netdata,Markdown,.\clones\netdata\docs\export\external-databases.md,15,0,75
+netdata,C++,.\clones\netdata\ml\Config.cc,33,20,75
+netdata,YAML,.\clones\netdata\.github\workflows\checks.yml,0,0,74
+netdata,C++,.\clones\netdata\aclk\schema-wrappers\node_info.cc,29,0,74
+netdata,C,.\clones\netdata\collectors\cgroups.plugin\tests\test_cgroups_plugin.c,25,11,74
+netdata,Markdown,.\clones\netdata\docs\guides\step-by-step\step-00.md,46,0,74
+netdata,Markdown,.\clones\netdata\docs\guides\step-by-step\step-07.md,40,0,74
+netdata,C/C++ Header,.\clones\netdata\backends\backends.h,25,1,72
+netdata,C,.\clones\netdata\backends\graphite\graphite.c,15,3,72
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\powerdns\README.md,32,0,72
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\proxysql\README.md,34,0,72
+netdata,C,.\clones\netdata\collectors\diskspace.plugin\plugin_diskspace.c,102,327,71
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\smartd_log\README.md,54,0,71
+netdata,C,.\clones\netdata\database\engine\metadata_log\compaction.c,11,4,71
+netdata,C/C++ Header,.\clones\netdata\libnetdata\adaptive_resortable_list\adaptive_resortable_list.h,36,31,71
+netdata,C/C++ Header,.\clones\netdata\ml\Host.h,31,2,71
+netdata,C,.\clones\netdata\web\api\formatters\value\value.c,21,3,71
+netdata,C,.\clones\netdata\collectors\idlejitter.plugin\plugin_idlejitter.c,21,1,70
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\logind\logind.chart.py,11,4,70
+netdata,C/C++ Header,.\clones\netdata\daemon\analytics.h,12,5,70
+netdata,C,.\clones\netdata\libnetdata\circular_buffer\circular_buffer.c,8,7,70
+netdata,Bourne Shell,.\clones\netdata\packaging\installer\dependencies\clearlinux.sh,12,5,70
+netdata,C,.\clones\netdata\web\api\queries\rrdr.c,29,48,70
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\themes.js,5,17,70
+netdata,C,.\clones\netdata\backends\aws_kinesis\aws_kinesis.c,21,4,69
+netdata,Markdown,.\clones\netdata\collectors\fping.plugin\README.md,33,0,69
+netdata,Markdown,.\clones\netdata\docs\dashboard\dimensions-contexts-families.mdx,27,0,69
+netdata,Markdown,.\clones\netdata\docs\metrics-storage-management\how-streaming-works.mdx,23,0,69
+netdata,C/C++ Header,.\clones\netdata\health\health.h,23,1,69
+netdata,Markdown,.\clones\netdata\docs\dashboard\customize.mdx,25,0,68
+netdata,Markdown,.\clones\netdata\libnetdata\adaptive_resortable_list\README.md,31,0,68
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\freeradius\README.md,23,0,67
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\ntpd\README.md,23,0,67
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\bases\collection.py,28,22,67
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml2\cyaml.py,18,1,67
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml3\cyaml.py,18,1,67
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml3\events.py,17,3,67
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\util\connection.py,29,35,67
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\w1sensor\w1sensor.chart.py,16,14,67
+netdata,Markdown,.\clones\netdata\docs\export\enable-connector.md,28,0,67
+netdata,Markdown,.\clones\netdata\docs\quickstart\single-node.md,25,0,67
+netdata,Bourne Shell,.\clones\netdata\packaging\makeself\jobs\99-makeself.install.sh,28,19,67
+netdata,C,.\clones\netdata\registry\registry_machine.c,28,9,67
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\charting\_morris.js,11,3,67
+netdata,Pascal,.\clones\netdata\web\gui\src\dashboard.js\prologue.js.inc,8,9,67
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\dovecot\README.md,39,0,66
+netdata,Markdown,.\clones\netdata\docs\configure\start-stop-restart.md,32,0,66
+netdata,C,.\clones\netdata\registry\registry_url.c,16,6,66
+netdata,Bourne Shell,.\clones\netdata\.github\scripts\build-artifacts.sh,12,4,65
+netdata,m4,.\clones\netdata\build\m4\jemalloc.m4,4,6,65
+netdata,C/C++ Header,.\clones\netdata\collectors\ebpf.plugin\ebpf_process.h,24,16,65
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\dockerd\dockerd.chart.py,17,4,65
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\elasticsearch\README.md,29,0,65
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml2\error.py,10,1,65
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml3\error.py,10,1,65
+netdata,C/C++ Header,.\clones\netdata\libnetdata\buffer\buffer.h,18,3,65
+netdata,C/C++ Header,.\clones\netdata\database\engine\rrddiskprotocol.h,20,35,64
+netdata,Markdown,.\clones\netdata\docs\collect\application-metrics.md,16,0,64
+netdata,Markdown,.\clones\netdata\docs\guides\monitor\stop-notifications-alarms.md,28,0,64
+netdata,C,.\clones\netdata\web\api\queries\ses\ses.c,19,9,64
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\chart-registry.js,20,10,64
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\xss.js,12,8,64
+netdata,C++,.\clones\netdata\backends\aws_kinesis\aws_kinesis_put_record.cc,23,1,63
+netdata,C,.\clones\netdata\daemon\static_threads_linux.c,7,1,63
+netdata,C++,.\clones\netdata\ml\BitRateWindow.cc,11,1,63
+netdata,Markdown,.\clones\netdata\packaging\installer\methods\pfsense.md,21,0,63
+netdata,YAML,.\clones\netdata\.github\ISSUE_TEMPLATE\FEAT_REQUEST.yml,0,0,62
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\alarms\alarms.chart.py,18,4,62
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\memcached\README.md,37,0,62
+netdata,Markdown,.\clones\netdata\packaging\installer\methods\offline.md,28,0,62
+netdata,Bourne Shell,.\clones\netdata\tests\stress.sh,16,5,62
+netdata,Markdown,.\clones\netdata\web\api\formatters\README.md,16,0,62
+netdata,Markdown,.\clones\netdata\collectors\charts.d.plugin\sensors\README.md,23,0,61
+netdata,Markdown,.\clones\netdata\docs\guides\step-by-step\step-03.md,30,0,61
+netdata,Markdown,.\clones\netdata\health\notifications\stackpulse\README.md,20,0,61
+netdata,Markdown,.\clones\netdata\web\api\queries\stddev\README.md,32,0,61
+netdata,HTML,.\clones\netdata\web\gui\dashboard\console.html,7,4,61
+netdata,Bourne Shell,.\clones\netdata\collectors\charts.d.plugin\example\example.chart.sh,23,40,60
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\bind_rndc\README.md,19,0,60
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\logind\README.md,26,0,60
+netdata,Markdown,.\clones\netdata\docs\dashboard\import-export-print-snapshot.mdx,23,0,60
+netdata,JavaScript,.\clones\netdata\collectors\node.d.plugin\node_modules\extend.js,15,14,59
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\hddtemp\hddtemp.chart.py,26,14,59
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\megacli\README.md,27,0,59
+netdata,Markdown,.\clones\netdata\docs\collect\how-collectors-work.md,21,0,59
+netdata,Markdown,.\clones\netdata\health\notifications\README.md,27,0,59
+netdata,Markdown,.\clones\netdata\health\notifications\alerta\README.md,22,0,59
+netdata,Markdown,.\clones\netdata\packaging\maintainers\README.md,27,0,59
+netdata,C,.\clones\netdata\aclk\aclk_charts_api.c,9,1,58
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\fail2ban\README.md,24,0,58
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\hpssa\README.md,26,0,58
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\icecast\icecast.chart.py,20,16,58
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\__init__.py,17,23,58
+netdata,C/C++ Header,.\clones\netdata\daemon\common.h,27,23,58
+netdata,Bourne Shell,.\clones\netdata\.github\scripts\build-dist.sh,10,3,57
+netdata,C/C++ Header,.\clones\netdata\collectors\ebpf.plugin\ebpf_cachestat.h,19,6,57
+netdata,Markdown,.\clones\netdata\collectors\ioping.plugin\README.md,29,0,57
+netdata,Markdown,.\clones\netdata\collectors\perf.plugin\README.md,23,0,57
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\nginx\nginx.chart.py,6,8,57
+netdata,Markdown,.\clones\netdata\health\notifications\irc\README.md,21,0,57
+netdata,C/C++ Header,.\clones\netdata\libnetdata\locks\locks.h,17,1,57
+netdata,JSON,.\clones\netdata\package.json,0,0,57
+netdata,C/C++ Header,.\clones\netdata\registry\registry_internals.h,21,12,57
+netdata,C/C++ Header,.\clones\netdata\collectors\ebpf.plugin\ebpf_cgroup.h,13,1,56
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\energid\README.md,21,0,56
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\bases\FrameworkServices\ExecutableService.py,16,19,56
+netdata,C,.\clones\netdata\database\sqlite\sqlite_aclk_node.c,12,1,56
+netdata,Markdown,.\clones\netdata\docs\overview\what-is-netdata.md,18,0,56
+netdata,C/C++ Header,.\clones\netdata\libnetdata\storage_number\storage_number.h,28,17,56
+netdata,Bourne Shell,.\clones\netdata\.github\scripts\functions.sh,13,1,55
+netdata,Bourne Shell,.\clones\netdata\.github\scripts\old_package_purging.sh,14,19,55
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\retroshare\retroshare.chart.py,11,12,55
+netdata,C/C++ Header,.\clones\netdata\database\rrdcalctemplate.h,26,16,55
+netdata,Markdown,.\clones\netdata\docs\agent-cloud.md,24,0,55
+netdata,Markdown,.\clones\netdata\docs\store\change-metrics-storage.md,22,0,55
+netdata,Markdown,.\clones\netdata\health\notifications\email\README.md,22,0,55
+netdata,JavaScript,.\clones\netdata\tests\node.d\fronius.process.spec.js,16,4,55
+netdata,YAML,.\clones\netdata\.github\workflows\coverity.yml,0,1,54
+netdata,C/C++ Header,.\clones\netdata\aclk\https_client.h,18,6,54
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\adaptec_raid\README.md,26,0,54
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\bases\FrameworkServices\LogService.py,11,17,54
+netdata,Markdown,.\clones\netdata\docs\netdata-for-IoT.md,20,0,54
+netdata,C/C++ Header,.\clones\netdata\libnetdata\procfile\procfile.h,30,22,54
+netdata,Bourne Shell,.\clones\netdata\packaging\check-kernel-config.sh,19,0,54
+netdata,C/C++ Header,.\clones\netdata\aclk\schema-wrappers\alarm_config.h,15,1,53
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\dnsdist\README.md,19,0,53
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\openldap\README.md,26,0,53
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml2\dumper.py,9,1,53
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml3\dumper.py,9,1,53
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\util\request.py,25,41,53
+netdata,Bourne Shell,.\clones\netdata\contrib\debian\netdata.postinst,18,3,53
+netdata,C/C++ Header,.\clones\netdata\libnetdata\eval\eval.h,21,14,53
+netdata,C,.\clones\netdata\web\api\queries\median\median.c,20,6,53
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\charting\peity.js,8,1,53
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\am2320\am2320.chart.py,12,4,52
+netdata,Markdown,.\clones\netdata\docs\monitor\view-active-alarms.md,23,0,52
+netdata,Markdown,.\clones\netdata\exporting\TIMESCALE.md,17,0,52
+netdata,Markdown,.\clones\netdata\web\api\queries\des\README.md,21,0,52
+netdata,C/C++ Header,.\clones\netdata\collectors\ebpf.plugin\ebpf_dcstat.h,18,8,51
+netdata,C/C++ Header,.\clones\netdata\collectors\ebpf.plugin\ebpf_fd.h,23,11,51
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\request.py,35,63,51
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\util\__init__.py,2,2,51
+netdata,C/C++ Header,.\clones\netdata\database\engine\datafile.h,12,4,51
+netdata,Markdown,.\clones\netdata\docs\Running-behind-lighttpd.md,20,0,51
+netdata,Markdown,.\clones\netdata\docs\store\distributed-data-architecture.md,20,0,51
+netdata,make,.\clones\netdata\system\Makefile.am,7,3,51
+netdata,Markdown,.\clones\netdata\web\api\exporters\shell\README.md,18,0,51
+netdata,C,.\clones\netdata\web\api\queries\incremental_sum\incremental_sum.c,13,5,51
+netdata,Python,.\clones\netdata\web\gui\bundle_dashboard.py,27,47,51
+netdata,C/C++ Header,.\clones\netdata\aclk\aclk_stats.h,20,10,50
+netdata,C/C++ Header,.\clones\netdata\collectors\ebpf.plugin\ebpf_filesystem.h,16,3,50
+netdata,C/C++ Header,.\clones\netdata\collectors\proc.plugin\plugin_proc.h,8,3,50
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\apache\README.md,32,0,50
+netdata,C,.\clones\netdata\exporting\check_filters.c,14,16,50
+netdata,C,.\clones\netdata\exporting\clean_connectors.c,18,17,50
+netdata,Bourne Shell,.\clones\netdata\tests\installer\slack.sh,4,11,50
+netdata,JavaScript,.\clones\netdata\tests\web\karma.conf.js,23,37,50
+netdata,C/C++ Header,.\clones\netdata\aclk\schema-wrappers\node_info.h,28,1,49
+netdata,C/C++ Header,.\clones\netdata\backends\opentsdb\opentsdb.h,8,1,49
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\nvidia_smi\README.md,15,0,49
+netdata,C/C++ Header,.\clones\netdata\daemon\commands.h,12,21,49
+netdata,Markdown,.\clones\netdata\docs\collect\enable-configure.md,19,0,49
+netdata,Markdown,.\clones\netdata\docs\collect\system-metrics.md,17,0,49
+netdata,Bourne Shell,.\clones\netdata\.travis\create_artifacts.sh,12,17,48
+netdata,m4,.\clones\netdata\build\m4\ax_check_compile_flag.m4,2,0,48
+netdata,C/C++ Header,.\clones\netdata\collectors\ebpf.plugin\ebpf_disk.h,20,10,48
+netdata,C/C++ Header,.\clones\netdata\collectors\ebpf.plugin\ebpf_hardirq.h,15,10,48
+netdata,C/C++ Header,.\clones\netdata\collectors\plugins.d\plugins_d.h,19,3,48
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\nsd\README.md,20,0,48
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\third_party\mcrcon.py,15,11,48
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\traefik\README.md,26,0,48
+netdata,C/C++ Header,.\clones\netdata\database\engine\rrdengineapi.h,14,2,48
+netdata,Markdown,.\clones\netdata\docs\overview\why-netdata.md,15,0,48
+netdata,C/C++ Header,.\clones\netdata\libnetdata\json\json.h,19,5,48
+netdata,C/C++ Header,.\clones\netdata\web\server\web_server.h,15,1,48
+netdata,Bourne Shell,.\clones\netdata\.github\scripts\build-static.sh,11,3,47
+netdata,Bourne Shell,.\clones\netdata\build_external\bin\clean-install.sh,3,4,47
+netdata,Markdown,.\clones\netdata\collectors\charts.d.plugin\nut\README.md,27,0,47
+netdata,make,.\clones\netdata\collectors\node.d.plugin\Makefile.am,12,2,47
+netdata,JavaScript,.\clones\netdata\tests\k6\data.js,6,14,47
+netdata,Bourne Shell,.\clones\netdata\tests\updater_checks.sh,9,15,47
+netdata,JSON,.\clones\netdata\web\gui\dashboard\asset-manifest.json,0,0,47
+netdata,HTML,.\clones\netdata\web\gui\dashboard\demo.html,3,1,47
+netdata,Bourne Shell,.\clones\netdata\.github\scripts\docker-test.sh,12,0,46
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\haproxy\README.md,21,0,46
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\puppet\README.md,21,0,46
+netdata,Markdown,.\clones\netdata\collectors\statsd.plugin\k6.md,30,0,46
+netdata,C,.\clones\netdata\exporting\tests\system_doubles.c,14,1,46
+netdata,Markdown,.\clones\netdata\health\notifications\opsgenie\README.md,16,0,46
+netdata,Markdown,.\clones\netdata\health\notifications\pagerduty\README.md,17,0,46
+netdata,C/C++ Header,.\clones\netdata\libnetdata\avl\avl.h,20,26,46
+netdata,C/C++ Header,.\clones\netdata\libnetdata\socket\security.h,9,0,46
+netdata,C++,.\clones\netdata\aclk\schema-wrappers\connection.cc,17,1,45
+netdata,Dockerfile,.\clones\netdata\build_external\clean-install-arch-debug.Dockerfile,9,8,45
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\alarms\README.md,15,0,45
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\varnish\README.md,20,0,45
+netdata,Markdown,.\clones\netdata\contrib\README.md,16,0,45
+netdata,Markdown,.\clones\netdata\docs\visualize\create-dashboards.md,19,0,45
+netdata,Markdown,.\clones\netdata\packaging\installer\methods\synology.md,16,0,45
+netdata,C,.\clones\netdata\web\api\queries\average\average.c,12,5,45
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\lib\tableExport-1.6.0.min.js,3,7,45
+netdata,Bourne Shell,.\clones\netdata\collectors\charts.d.plugin\charts.d.dryrun-helper.sh,14,14,44
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\chrony\README.md,17,0,44
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\litespeed\README.md,28,0,44
+netdata,Markdown,.\clones\netdata\docs\overview\netdata-monitoring-stack.md,18,0,44
+netdata,make,.\clones\netdata\health\notifications\Makefile.am,7,1,44
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\error-handling.js,7,1,44
+netdata,C/C++ Header,.\clones\netdata\collectors\freebsd.plugin\plugin_freebsd.h,8,1,43
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\httpcheck\README.md,16,0,43
+netdata,C,.\clones\netdata\database\rrdfamily.c,14,4,43
+netdata,Markdown,.\clones\netdata\exporting\aws_kinesis\README.md,15,0,43
+netdata,Bourne Shell,.\clones\netdata\packaging\makeself\functions.sh,16,15,43
+netdata,C/C++ Header,.\clones\netdata\collectors\ebpf.plugin\ebpf_shm.h,15,6,42
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\filepost.py,28,25,42
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\tor\README.md,22,0,42
+netdata,Bourne Again Shell,.\clones\netdata\contrib\sles11\netdata.init,10,13,42
+netdata,C/C++ Header,.\clones\netdata\database\rrdvar.h,18,6,42
+netdata,Markdown,.\clones\netdata\exporting\prometheus\remote_write\README.md,16,0,42
+netdata,Markdown,.\clones\netdata\health\notifications\hangouts\README.md,13,0,42
+netdata,Markdown,.\clones\netdata\health\notifications\matrix\README.md,16,0,42
+netdata,C/C++ Header,.\clones\netdata\libnetdata\health\health.h,13,0,42
+netdata,Markdown,.\clones\netdata\libnetdata\procfile\README.md,25,0,42
+netdata,Markdown,.\clones\netdata\web\api\formatters\ssv\README.md,17,0,42
+netdata,Markdown,.\clones\netdata\web\api\queries\ses\README.md,19,0,42
+netdata,SVG,.\clones\netdata\web\gui\dashboard\images\packaging-beta-tag.svg,0,0,42
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\timeout.js,19,39,42
+netdata,Dockerfile,.\clones\netdata\build_external\clean-install-arch-extras.Dockerfile,10,7,41
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\nginx\README.md,24,0,41
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\redis\README.md,23,0,41
+netdata,C,.\clones\netdata\web\api\queries\max\max.c,14,5,41
+netdata,C,.\clones\netdata\web\api\queries\min\min.c,14,5,41
+netdata,JSON,.\clones\netdata\web\gui\dashboard\manifest.json,0,0,41
+netdata,JavaScript,.\clones\netdata\.remarkrc.js,3,68,40
+netdata,Markdown,.\clones\netdata\backends\TIMESCALE.md,17,0,40
+netdata,Markdown,.\clones\netdata\libnetdata\config\README.md,14,0,40
+netdata,C,.\clones\netdata\libnetdata\tests\test_str2ld.c,7,1,40
+netdata,Markdown,.\clones\netdata\packaging\installer\UNINSTALL.md,14,0,40
+netdata,Bourne Shell,.\clones\netdata\packaging\makeself\build-static.sh,12,17,40
+netdata,Bourne Shell,.\clones\netdata\packaging\makeself\build.sh,17,9,40
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\refresh-badges.js,16,42,40
+netdata,Markdown,.\clones\netdata\collectors\cups.plugin\README.md,23,0,39
+netdata,C/C++ Header,.\clones\netdata\collectors\proc.plugin\proc_self_mountinfo.h,17,4,39
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\am2320\README.md,15,0,39
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\couchdb\README.md,14,0,39
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\packages\backports\makefile.py,4,11,39
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\squid\README.md,19,0,39
+netdata,Bourne Shell,.\clones\netdata\contrib\debian\netdata.postrm,13,1,39
+netdata,Markdown,.\clones\netdata\docs\why-netdata\meaningful-presentation.md,29,0,39
+netdata,Bourne Shell,.\clones\netdata\packaging\makeself\jobs\50-curl-7.78.0.install.sh,10,5,39
+netdata,make,.\clones\netdata\tests\profile\Makefile,11,1,39
+netdata,C,.\clones\netdata\web\api\queries\sum\sum.c,14,5,39
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\charting\_raphael.js,7,2,39
+netdata,Bourne Shell,.\clones\netdata\.travis\draft_release.sh,9,18,38
+netdata,YAML,.\clones\netdata\.yamllint.yml,2,0,38
+netdata,Markdown,.\clones\netdata\backends\aws_kinesis\README.md,15,0,38
+netdata,Dockerfile,.\clones\netdata\build_external\clean-install-arch.Dockerfile,9,7,38
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\isc_dhcpd\README.md,19,0,38
+netdata,Markdown,.\clones\netdata\health\notifications\rocketchat\README.md,14,0,38
+netdata,C/C++ Header,.\clones\netdata\libnetdata\json\jsmn.h,9,28,38
+netdata,make,.\clones\netdata\tests\Makefile.am,6,1,38
+netdata,C/C++ Header,.\clones\netdata\aclk\schema-wrappers\chart_config.h,12,1,37
+netdata,make,.\clones\netdata\collectors\charts.d.plugin\Makefile.am,11,2,37
+netdata,Markdown,.\clones\netdata\collectors\charts.d.plugin\libreswan\README.md,19,0,37
+netdata,C/C++ Header,.\clones\netdata\collectors\ebpf.plugin\ebpf_sync.h,14,5,37
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_sys_kernel_random_entropy_avail.c,11,1,37
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\gearman\README.md,14,0,37
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\portcheck\README.md,15,0,37
+netdata,C++,.\clones\netdata\ml\kmeans\KMeans.cc,17,1,37
+netdata,Bourne Shell,.\clones\netdata\packaging\makeself\jobs\70-netdata-git.install.sh,14,12,37
+netdata,Bourne Shell,.\clones\netdata\.travis\create_changelog.sh,6,5,36
+netdata,C/C++ Header,.\clones\netdata\aclk\aclk_api.h,17,3,36
+netdata,C/C++ Header,.\clones\netdata\aclk\aclk_rrdhost_state.h,8,1,36
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\monit\README.md,16,0,36
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\postfix\postfix.chart.py,8,8,36
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\uwsgi\README.md,16,0,36
+netdata,Markdown,.\clones\netdata\docs\guides\step-by-step\step-99.md,15,0,36
+netdata,Markdown,.\clones\netdata\health\notifications\pushbullet\README.md,14,0,36
+netdata,Markdown,.\clones\netdata\health\notifications\slack\README.md,14,0,36
+netdata,C,.\clones\netdata\libnetdata\storage_number\tests\test_storage_number.c,15,1,36
+netdata,C/C++ Header,.\clones\netdata\ml\BitBufferCounter.h,17,1,36
+netdata,C/C++ Header,.\clones\netdata\ml\Query.h,13,0,36
+netdata,Bourne Shell,.\clones\netdata\packaging\makeself\install-alpine-packages.sh,1,8,36
+netdata,Bourne Shell,.\clones\netdata\tests\installer\checksums.sh,7,10,36
+netdata,m4,.\clones\netdata\build\m4\ax_c___atomic.m4,1,0,35
+netdata,make,.\clones\netdata\collectors\Makefile.am,5,2,35
+netdata,C/C++ Header,.\clones\netdata\collectors\plugins.d\pluginsd_parser.h,7,1,35
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\ceph\README.md,13,0,35
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\phpfpm\README.md,16,0,35
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\rethinkdbs\README.md,18,0,35
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\tomcat\README.md,18,0,35
+netdata,PlantUML,.\clones\netdata\diagrams\config.puml,11,0,35
+netdata,Markdown,.\clones\netdata\health\notifications\discord\README.md,15,0,35
+netdata,Markdown,.\clones\netdata\packaging\makeself\README.md,19,0,35
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\charting\d3.js,6,2,35
+netdata,Bourne Shell,.\clones\netdata\.travis\generate_changelog_for_nightlies.sh,7,9,34
+netdata,Bourne Shell,.\clones\netdata\.travis\tagger.sh,6,21,34
+netdata,C,.\clones\netdata\aclk\aclk_alarm_api.c,9,1,34
+netdata,m4,.\clones\netdata\build\m4\tcmalloc.m4,3,8,34
+netdata,Markdown,.\clones\netdata\cli\README.md,6,0,34
+netdata,Markdown,.\clones\netdata\collectors\nfacct.plugin\README.md,20,0,34
+netdata,C,.\clones\netdata\collectors\proc.plugin\proc_uptime.c,11,1,34
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\example\example.chart.py,13,4,34
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\ipfs\README.md,17,0,34
+netdata,Bourne Shell,.\clones\netdata\contrib\debian\netdata.init,5,17,34
+netdata,C/C++ Header,.\clones\netdata\database\rrddimvar.h,16,6,34
+netdata,Markdown,.\clones\netdata\health\notifications\twilio\README.md,13,0,34
+netdata,C/C++ Header,.\clones\netdata\libnetdata\dictionary\dictionary.h,13,2,34
+netdata,C/C++ Header,.\clones\netdata\registry\registry_person.h,17,11,34
+netdata,C,.\clones\netdata\web\api\formatters\ssv\ssv.c,7,4,34
+netdata,make,.\clones\netdata\collectors\ebpf.plugin\Makefile.am,7,2,33
+netdata,C/C++ Header,.\clones\netdata\collectors\ebpf.plugin\ebpf_swap.h,14,6,33
+netdata,JavaScript,.\clones\netdata\collectors\node.d.plugin\node_modules\lib\ber\types.js,1,1,33
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\util\response.py,20,29,33
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\retroshare\README.md,14,0,33
+netdata,Markdown,.\clones\netdata\collectors\xenstat.plugin\README.md,20,0,33
+netdata,Markdown,.\clones\netdata\docs\why-netdata\1s-granularity.md,26,0,33
+netdata,Markdown,.\clones\netdata\health\notifications\kavenegar\README.md,13,0,33
+netdata,Markdown,.\clones\netdata\health\notifications\messagebird\README.md,12,0,33
+netdata,Bourne Shell,.\clones\netdata\packaging\docker\run.sh,7,8,33
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\ovpn_status_log\README.md,18,0,32
+netdata,C/C++ Header,.\clones\netdata\database\engine\journalfile.h,12,5,32
+netdata,Markdown,.\clones\netdata\health\notifications\telegram\README.md,13,0,32
+netdata,Bourne Shell,.\clones\netdata\.github\scripts\check-updater.sh,5,2,31
+netdata,Bourne Shell,.\clones\netdata\.travis\generate_changelog_and_tag_release.sh,7,26,31
+netdata,Bourne Shell,.\clones\netdata\.travis\nightlies.sh,8,12,31
+netdata,Markdown,.\clones\netdata\collectors\README.md,18,0,31
+netdata,Markdown,.\clones\netdata\collectors\diskspace.plugin\README.md,12,0,31
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml2\loader.py,9,1,31
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml3\loader.py,9,1,31
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\pyyaml3\nodes.py,6,13,31
+netdata,Bourne Shell,.\clones\netdata\contrib\rhel\build-netdata-rpm.sh,12,13,31
+netdata,Markdown,.\clones\netdata\health\notifications\awssns\README.md,12,0,31
+netdata,Markdown,.\clones\netdata\libnetdata\simple_pattern\README.md,12,0,31
+netdata,C/C++ Header,.\clones\netdata\ml\Config.h,16,1,31
+netdata,Markdown,.\clones\netdata\web\api\queries\median\README.md,14,0,31
+netdata,YAML,.\clones\netdata\.github\workflows\dashboard-pr.yml,3,3,30
+netdata,C/C++ Header,.\clones\netdata\backends\prometheus\backend_prometheus.h,6,1,30
+netdata,C/C++ Header,.\clones\netdata\collectors\cgroups.plugin\sys_fs_cgroup.h,11,3,30
+netdata,C/C++ Header,.\clones\netdata\database\sqlite\sqlite_aclk_chart.h,6,1,30
+netdata,C/C++ Header,.\clones\netdata\exporting\prometheus\prometheus.h,10,1,30
+netdata,Markdown,.\clones\netdata\health\notifications\msteams\README.md,15,0,30
+netdata,Markdown,.\clones\netdata\health\notifications\smstools3\README.md,14,0,30
+netdata,Markdown,.\clones\netdata\web\api\queries\average\README.md,16,0,30
+netdata,YAML,.\clones\netdata\.github\workflows\docs.yml,0,0,29
+netdata,C/C++ Header,.\clones\netdata\aclk\aclk.h,16,10,29
+netdata,Markdown,.\clones\netdata\backends\mongodb\README.md,12,0,29
+netdata,Markdown,.\clones\netdata\backends\prometheus\remote_write\README.md,12,0,29
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\boinc\README.md,12,0,29
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\dockerd\README.md,17,0,29
+netdata,Markdown,.\clones\netdata\docs\why-netdata\immediate-results.md,17,0,29
+netdata,Markdown,.\clones\netdata\exporting\pubsub\README.md,9,0,29
+netdata,make,.\clones\netdata\libnetdata\Makefile.am,3,1,29
+netdata,C/C++ Header,.\clones\netdata\libnetdata\os.h,24,7,29
+netdata,C/C++ Header,.\clones\netdata\libnetdata\threads\threads.h,12,1,29
+netdata,C++,.\clones\netdata\aclk\schema-wrappers\node_creation.cc,10,1,28
+netdata,Markdown,.\clones\netdata\backends\opentsdb\README.md,10,0,28
+netdata,Markdown,.\clones\netdata\collectors\node.d.plugin\sma_webbox\README.md,5,0,28
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\icecast\README.md,16,0,28
+netdata,PlantUML,.\clones\netdata\diagrams\registry.puml,12,0,28
+netdata,Markdown,.\clones\netdata\docs\why-netdata\unlimited-metrics.md,21,0,28
+netdata,Markdown,.\clones\netdata\exporting\mongodb\README.md,10,0,28
+netdata,Markdown,.\clones\netdata\health\notifications\dynatrace\README.md,8,0,28
+netdata,C,.\clones\netdata\libnetdata\completion\completion.c,5,1,28
+netdata,C,.\clones\netdata\ml\ml-dummy.c,12,1,28
+netdata,C/C++ Header,.\clones\netdata\web\api\web_api_v1.h,7,1,28
+netdata,C/C++ Header,.\clones\netdata\backends\graphite\graphite.h,7,1,27
+netdata,C/C++ Header,.\clones\netdata\backends\json\json.h,6,1,27
+netdata,m4,.\clones\netdata\build\m4\ax_c__generic.m4,1,0,27
+netdata,Python,.\clones\netdata\build_external\scenarios\aclk-testing\paho-inspection.py,2,4,27
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\exim\README.md,14,0,27
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\spigotmc\README.md,11,0,27
+netdata,C/C++ Header,.\clones\netdata\database\engine\metadata_log\logfile.h,9,3,27
+netdata,C,.\clones\netdata\database\engine\metadata_log\metadatalogapi.c,7,5,27
+netdata,C/C++ Header,.\clones\netdata\ml\ml.h,14,1,27
+netdata,Bourne Shell,.\clones\netdata\packaging\build_package_install_test.sh,7,3,27
+netdata,Bourne Shell,.\clones\netdata\packaging\makeself\jobs\50-bash-5.1.8.install.sh,10,4,27
+netdata,Markdown,.\clones\netdata\web\api\queries\incremental_sum\README.md,14,0,27
+netdata,Markdown,.\clones\netdata\web\api\queries\sum\README.md,14,0,27
+netdata,Bourne Shell,.\clones\netdata\.github\scripts\run_install_with_dist_file.sh,7,6,26
+netdata,Dockerfile,.\clones\netdata\build_external\clean-install.Dockerfile,9,4,26
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\hddtemp\README.md,12,0,26
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\bases\loaders.py,16,4,26
+netdata,C/C++ Header,.\clones\netdata\database\engine\metadata_log\metalogpluginsd.h,6,1,26
+netdata,Markdown,.\clones\netdata\exporting\graphite\README.md,9,0,26
+netdata,Markdown,.\clones\netdata\exporting\json\README.md,9,0,26
+netdata,Markdown,.\clones\netdata\exporting\opentsdb\README.md,9,0,26
+netdata,C/C++ Header,.\clones\netdata\exporting\prometheus\remote_write\remote_write_request.h,12,1,26
+netdata,C/C++ Header,.\clones\netdata\exporting\pubsub\pubsub_publish.h,10,1,26
+netdata,C/C++ Header,.\clones\netdata\libnetdata\required_dummies.h,7,5,26
+netdata,Markdown,.\clones\netdata\packaging\installer\REINSTALL.md,10,0,26
+netdata,C/C++ Header,.\clones\netdata\registry\registry_machine.h,12,5,26
+netdata,C,.\clones\netdata\tests\profile\test-eval.c,50,213,26
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\colors.js,5,3,26
+netdata,Bourne Shell,.\clones\netdata\.github\scripts\package_cloud_wrapper.sh,5,18,25
+netdata,C++,.\clones\netdata\aclk\schema-wrappers\node_connection.cc,11,1,25
+netdata,C/C++ Header,.\clones\netdata\database\rrdsetvar.h,13,6,25
+netdata,Markdown,.\clones\netdata\health\README.md,13,0,25
+netdata,Markdown,.\clones\netdata\health\notifications\flock\README.md,12,0,25
+netdata,Markdown,.\clones\netdata\web\api\queries\max\README.md,13,0,25
+netdata,Markdown,.\clones\netdata\web\api\queries\min\README.md,13,0,25
+netdata,Bourne Shell,.\clones\netdata\.travis\check_changelog_last_modification.sh,7,7,24
+netdata,m4,.\clones\netdata\build\m4\ax_c_mallinfo.m4,0,0,24
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\exim\exim.chart.py,7,8,24
+netdata,Bourne Shell,.\clones\netdata\cppcheck.sh,8,3,24
+netdata,C/C++ Header,.\clones\netdata\daemon\static_threads.h,14,8,24
+netdata,C/C++ Header,.\clones\netdata\database\engine\metadata_log\metadatalogprotocol.h,10,19,24
+netdata,Markdown,.\clones\netdata\docs\Running-behind-caddy.md,10,0,24
+netdata,C/C++ Header,.\clones\netdata\exporting\aws_kinesis\aws_kinesis_put_record.h,10,1,24
+netdata,C/C++ Header,.\clones\netdata\exporting\mongodb\mongodb.h,10,1,24
+netdata,Bourne Shell,.\clones\netdata\packaging\makeself\jobs\50-fping-5.0.install.sh,9,4,24
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\server-detection.js,4,1,24
+netdata,C/C++ Header,.\clones\netdata\aclk\aclk_collector_list.h,9,9,23
+netdata,C/C++ Header,.\clones\netdata\aclk\aclk_tx_msgs.h,10,2,23
+netdata,C/C++ Header,.\clones\netdata\aclk\schema-wrappers\connection.h,13,7,23
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\util\wait.py,6,12,23
+netdata,C,.\clones\netdata\daemon\service.c,10,5,23
+netdata,C,.\clones\netdata\daemon\static_threads_freebsd.c,7,1,23
+netdata,C,.\clones\netdata\daemon\static_threads_macos.c,7,1,23
+netdata,make,.\clones\netdata\exporting\Makefile.am,5,1,23
+netdata,C/C++ Header,.\clones\netdata\ml\kmeans\KMeans.h,10,1,23
+netdata,C/C++ Header,.\clones\netdata\web\api\health\health_cmdapi.h,7,1,23
+netdata,HTML,.\clones\netdata\web\gui\dashboard\index-node-view.html,4,3,23
+netdata,Bourne Shell,.\clones\netdata\.travis\utils.sh,6,1,22
+netdata,m4,.\clones\netdata\build\m4\ax_c_statement_expressions.m4,1,0,22
+netdata,C/C++ Header,.\clones\netdata\collectors\ebpf.plugin\ebpf_mount.h,11,3,22
+netdata,Protocol Buffers,.\clones\netdata\exporting\prometheus\remote_write\remote_write.proto,7,0,22
+netdata,Bourne Shell,.\clones\netdata\packaging\bundle-libbpf.sh,4,0,22
+netdata,JavaScript,.\clones\netdata\tests\web\easypiechart.chart.spec.js,7,10,22
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\compatibility.js,4,5,22
+netdata,C/C++ Header,.\clones\netdata\aclk\schema-wrappers\node_creation.h,9,1,21
+netdata,Bourne Shell,.\clones\netdata\build-artifacts.sh,6,0,21
+netdata,m4,.\clones\netdata\build\m4\ax_c_lto.m4,0,0,21
+netdata,Markdown,.\clones\netdata\collectors\idlejitter.plugin\README.md,11,0,21
+netdata,C/C++ Header,.\clones\netdata\collectors\proc.plugin\proc_pressure.h,9,1,21
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\sensors\README.md,10,0,21
+netdata,Markdown,.\clones\netdata\docs\Donations-netdata-has-received.md,8,0,21
+netdata,Markdown,.\clones\netdata\docs\why-netdata\README.md,14,0,21
+netdata,Markdown,.\clones\netdata\health\notifications\prowl\README.md,8,0,21
+netdata,Markdown,.\clones\netdata\health\notifications\syslog\README.md,13,0,21
+netdata,Bourne Shell,.\clones\netdata\packaging\makeself\run-all-jobs.sh,12,9,21
+netdata,make,.\clones\netdata\packaging\repoconfig\Makefile,10,0,21
+netdata,CSS,.\clones\netdata\web\gui\dashboard\css\bootstrap-toggle-2.2.2.min.css,0,8,21
+netdata,JSON,.\clones\netdata\.mlc_config.json,0,0,20
+netdata,C/C++ Header,.\clones\netdata\aclk\aclk_query.h,9,3,20
+netdata,m4,.\clones\netdata\build\m4\ax_c_mallopt.m4,0,0,20
+netdata,Markdown,.\clones\netdata\collectors\timex.plugin\README.md,9,0,20
+netdata,C/C++ Header,.\clones\netdata\database\engine\metadata_log\metadatalog.h,6,2,20
+netdata,make,.\clones\netdata\diagrams\Makefile.am,3,1,20
+netdata,Markdown,.\clones\netdata\docs\Demo-Sites.md,5,0,20
+netdata,C/C++ Header,.\clones\netdata\libnetdata\statistical\statistical.h,5,1,20
+netdata,Bourne Shell,.\clones\netdata\packaging\bundle-judy.sh,3,0,20
+netdata,Bourne Shell,.\clones\netdata\packaging\repoconfig\build-rpm.sh,6,0,20
+netdata,C/C++ Header,.\clones\netdata\web\server\web_client_cache.h,10,1,20
+netdata,YAML,.\clones\netdata\.lgtm.yml,0,7,19
+netdata,YAML,.\clones\netdata\build_external\scenarios\parent-child\docker-compose.yml,0,4,19
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\dns_query_time\README.md,10,0,19
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\w1sensor\README.md,9,0,19
+netdata,C/C++ Header,.\clones\netdata\libnetdata\simple_pattern\simple_pattern.h,12,9,19
+netdata,C++,.\clones\netdata\ml\BitBufferCounter.cc,9,1,19
+netdata,C/C++ Header,.\clones\netdata\web\api\queries\query.h,4,1,19
+netdata,YAML,.\clones\netdata\.github\stale.yml,0,0,18
+netdata,C/C++ Header,.\clones\netdata\aclk\schema-wrappers\node_connection.h,10,1,18
+netdata,YAML,.\clones\netdata\build_external\scenarios\aclk-testing\agent-compose.yml,0,0,18
+netdata,YAML,.\clones\netdata\build_external\scenarios\aclk-testing\agent-valgrind-compose.yml,0,0,18
+netdata,C/C++ Header,.\clones\netdata\collectors\ebpf.plugin\ebpf_mdflush.h,13,11,18
+netdata,make,.\clones\netdata\daemon\Makefile.am,4,1,18
+netdata,C/C++ Header,.\clones\netdata\registry\registry.h,12,53,18
+netdata,C/C++ Header,.\clones\netdata\registry\registry_url.h,9,8,18
+netdata,Markdown,.\clones\netdata\.github\PULL_REQUEST_TEMPLATE.md,6,0,17
+netdata,YAML,.\clones\netdata\.github\workflows\labeler.yml,0,1,17
+netdata,Bourne Shell,.\clones\netdata\.travis\trigger_artifact_build.sh,3,0,17
+netdata,Bourne Shell,.\clones\netdata\.travis\trigger_package_build.sh,3,0,17
+netdata,C/C++ Header,.\clones\netdata\aclk\aclk_proxy.h,5,0,17
+netdata,make,.\clones\netdata\backends\Makefile.am,4,1,17
+netdata,C/C++ Header,.\clones\netdata\backends\prometheus\remote_write\remote_write.h,12,1,17
+netdata,C/C++ Header,.\clones\netdata\collectors\ebpf.plugin\ebpf_softirq.h,9,8,17
+netdata,make,.\clones\netdata\collectors\fping.plugin\Makefile.am,6,1,17
+netdata,make,.\clones\netdata\collectors\ioping.plugin\Makefile.am,6,1,17
+netdata,Markdown,.\clones\netdata\collectors\slabinfo.plugin\README.md,12,0,17
+netdata,C,.\clones\netdata\daemon\common.c,3,1,17
+netdata,C/C++ Header,.\clones\netdata\exporting\prometheus\remote_write\remote_write.h,7,1,17
+netdata,XML,.\clones\netdata\netdata.cppcheck,0,0,17
+netdata,make,.\clones\netdata\packaging\repoconfig\debian\rules,4,0,17
+netdata,Bourne Shell,.\clones\netdata\tests\run-unit-tests.sh,4,18,17
+netdata,Markdown,.\clones\netdata\web\api\formatters\value\README.md,7,0,17
+netdata,SVG,.\clones\netdata\web\gui\dashboard\images\netdata.svg,0,1,17
+netdata,YAML,.\clones\netdata\.codacy.yml,0,0,16
+netdata,Bourne Shell,.\clones\netdata\.travis\trigger_docker_build.sh,3,0,16
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\postfix\README.md,11,0,16
+netdata,Markdown,.\clones\netdata\docs\a-github-star-is-important.md,8,0,16
+netdata,C/C++ Header,.\clones\netdata\exporting\opentsdb\opentsdb.h,9,1,16
+netdata,C/C++ Header,.\clones\netdata\libnetdata\popen\popen.h,6,1,16
+netdata,C/C++ Header,.\clones\netdata\ml\ml-private.h,9,1,16
+netdata,Markdown,.\clones\netdata\packaging\installer\methods\freenas.md,8,0,16
+netdata,make,.\clones\netdata\web\api\Makefile.am,4,1,16
+netdata,make,.\clones\netdata\web\api\queries\Makefile.am,3,1,16
+netdata,C/C++ Header,.\clones\netdata\backends\aws_kinesis\aws_kinesis_put_record.h,9,1,15
+netdata,make,.\clones\netdata\collectors\cgroups.plugin\Makefile.am,5,1,15
+netdata,Markdown,.\clones\netdata\collectors\charts.d.plugin\apcupsd\README.md,6,0,15
+netdata,make,.\clones\netdata\collectors\statsd.plugin\Makefile.am,5,2,15
+netdata,C/C++ Header,.\clones\netdata\daemon\main.h,6,9,15
+netdata,C/C++ Header,.\clones\netdata\daemon\unit_test.h,4,1,15
+netdata,C/C++ Header,.\clones\netdata\database\sqlite\sqlite_aclk_alert.h,4,1,15
+netdata,Bourne Shell,.\clones\netdata\diagrams\build.sh,4,2,15
+netdata,Bourne Shell,.\clones\netdata\packaging\bundle-ebpf.sh,3,1,15
+netdata,Bourne Shell,.\clones\netdata\packaging\makeself\jobs\20-openssl.install.sh,7,5,15
+netdata,Bourne Shell,.\clones\netdata\packaging\repoconfig\build-deb.sh,6,11,15
+netdata,make,.\clones\netdata\web\Makefile.am,5,2,15
+netdata,HTML,.\clones\netdata\web\gui\dashboard\index.html,1,0,15
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\service-worker.js,7,17,15
+netdata,JSON,.\clones\netdata\.devcontainer\devcontainer.json,0,0,14
+netdata,YAML,.\clones\netdata\.github\ISSUE_TEMPLATE\config.yml,0,1,14
+netdata,C/C++ Header,.\clones\netdata\aclk\schema-wrappers\schema_wrapper_utils.h,5,1,14
+netdata,make,.\clones\netdata\claim\Makefile.am,6,1,14
+netdata,Markdown,.\clones\netdata\collectors\charts.d.plugin\opensips\README.md,5,0,14
+netdata,make,.\clones\netdata\collectors\tc.plugin\Makefile.am,5,1,14
+netdata,Bourne Shell,.\clones\netdata\contrib\debian\netdata.preinst,3,1,14
+netdata,diff,.\clones\netdata\contrib\sles11\netdata-python-plugin-sles11.patch,4,10,14
+netdata,C/C++ Header,.\clones\netdata\database\sqlite\sqlite_health.h,2,1,14
+netdata,Markdown,.\clones\netdata\health\notifications\pushover\README.md,9,0,14
+netdata,C/C++ Header,.\clones\netdata\libnetdata\url\url.h,11,10,14
+netdata,Bourne Shell,.\clones\netdata\packaging\makeself\jobs\10-prepare-destination.install.sh,5,4,14
+netdata,Bourne Shell,.\clones\netdata\packaging\makeself\jobs\50-ioping-1.2.install.sh,7,4,14
+netdata,C/C++ Header,.\clones\netdata\web\api\exporters\shell\allmetrics_shell.h,6,1,14
+netdata,YAML,.\clones\netdata\build_external\scenarios\gaps_hi\middle-compose.yml,0,0,13
+netdata,YAML,.\clones\netdata\build_external\scenarios\gaps_hi\parent-compose.yml,0,0,13
+netdata,YAML,.\clones\netdata\build_external\scenarios\gaps_lo\middle-compose.yml,0,1,13
+netdata,YAML,.\clones\netdata\build_external\scenarios\gaps_lo\parent-compose.yml,0,0,13
+netdata,Markdown,.\clones\netdata\contrib\sles11\README.md,4,0,13
+netdata,Markdown,.\clones\netdata\libnetdata\avl\README.md,4,0,13
+netdata,Markdown,.\clones\netdata\libnetdata\buffer\README.md,4,0,13
+netdata,C/C++ Header,.\clones\netdata\libnetdata\circular_buffer\circular_buffer.h,3,0,13
+netdata,C/C++ Header,.\clones\netdata\libnetdata\completion\completion.h,8,1,13
+netdata,Markdown,.\clones\netdata\.github\ISSUE_TEMPLATE.md,3,0,12
+netdata,C/C++ Header,.\clones\netdata\aclk\aclk_charts_api.h,7,1,12
+netdata,C/C++ Header,.\clones\netdata\collectors\ebpf.plugin\ebpf_oomkill.h,9,8,12
+netdata,JavaScript,.\clones\netdata\collectors\node.d.plugin\node_modules\lib\ber\index.js,5,1,12
+netdata,C/C++ Header,.\clones\netdata\daemon\buildinfo.h,7,1,12
+netdata,C/C++ Header,.\clones\netdata\daemon\global_statistics.h,7,3,12
+netdata,Markdown,.\clones\netdata\docs\README.md,5,0,12
+netdata,C/C++ Header,.\clones\netdata\exporting\json\json.h,8,1,12
+netdata,Markdown,.\clones\netdata\libnetdata\storage_number\README.md,5,0,12
+netdata,Bourne Shell,.\clones\netdata\packaging\docker\health.sh,2,3,12
+netdata,Markdown,.\clones\netdata\web\server\static\README.md,5,0,12
+netdata,C++,.\clones\netdata\aclk\schema-wrappers\schema_wrapper_utils.cc,3,1,11
+netdata,C/C++ Header,.\clones\netdata\aclk\schema-wrappers\schema_wrappers.h,4,2,11
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\packages\ssl_match_hostname\__init__.py,3,6,11
+netdata,Markdown,.\clones\netdata\diagrams\data_structures\README.md,7,0,11
+netdata,make,.\clones\netdata\web\api\formatters\Makefile.am,3,1,11
+netdata,C/C++ Header,.\clones\netdata\web\api\queries\des\des.h,5,1,11
+netdata,C/C++ Header,.\clones\netdata\web\api\queries\ses\ses.h,5,1,11
+netdata,C/C++ Header,.\clones\netdata\web\api\queries\stddev\stddev.h,4,3,11
+netdata,C/C++ Header,.\clones\netdata\aclk\aclk_rx_msgs.h,7,1,10
+netdata,YAML,.\clones\netdata\build_external\scenarios\gaps_hi\child-compose.yml,0,3,10
+netdata,YAML,.\clones\netdata\build_external\scenarios\gaps_lo\child-compose.yml,0,4,10
+netdata,C/C++ Header,.\clones\netdata\claim\claim.h,5,1,10
+netdata,C/C++ Header,.\clones\netdata\collectors\cgroups.plugin\tests\test_cgroups_plugin.h,5,1,10
+netdata,make,.\clones\netdata\collectors\slabinfo.plugin\Makefile.am,3,1,10
+netdata,C/C++ Header,.\clones\netdata\daemon\daemon.h,7,1,10
+netdata,C/C++ Header,.\clones\netdata\database\engine\rrdenglocking.h,5,2,10
+netdata,Markdown,.\clones\netdata\docs\Add-more-charts-to-netdata.md,5,0,10
+netdata,C/C++ Header,.\clones\netdata\exporting\aws_kinesis\aws_kinesis.h,5,1,10
+netdata,C/C++ Header,.\clones\netdata\exporting\graphite\graphite.h,7,1,10
+netdata,make,.\clones\netdata\exporting\prometheus\remote_write\Makefile.am,3,1,10
+netdata,Markdown,.\clones\netdata\tests\health_mgmtapi\README.md,5,0,10
+netdata,C/C++ Header,.\clones\netdata\web\api\queries\average\average.h,4,1,10
+netdata,C/C++ Header,.\clones\netdata\web\api\queries\incremental_sum\incremental_sum.h,4,1,10
+netdata,C/C++ Header,.\clones\netdata\web\api\queries\max\max.h,4,1,10
+netdata,C/C++ Header,.\clones\netdata\web\api\queries\median\median.h,4,1,10
+netdata,C/C++ Header,.\clones\netdata\web\api\queries\min\min.h,4,1,10
+netdata,C/C++ Header,.\clones\netdata\web\api\queries\sum\sum.h,4,1,10
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\charting\textonly.js,5,3,10
+netdata,JavaScript,.\clones\netdata\web\gui\src\dashboard.js\dependencies.js,2,9,10
+netdata,YAML,.\clones\netdata\.github\dependabot.yml,0,0,9
+netdata,C/C++ Header,.\clones\netdata\aclk\aclk_alarm_api.h,4,1,9
+netdata,Markdown,.\clones\netdata\collectors\python.d.plugin\example\README.md,5,0,9
+netdata,C/C++ Header,.\clones\netdata\daemon\signals.h,3,1,9
+netdata,C/C++ Header,.\clones\netdata\database\engine\metadata_log\compaction.h,4,1,9
+netdata,C/C++ Header,.\clones\netdata\exporting\pubsub\pubsub.h,4,1,9
+netdata,Markdown,.\clones\netdata\health\notifications\web\README.md,4,0,9
+netdata,Markdown,.\clones\netdata\libnetdata\circular_buffer\README.md,3,0,9
+netdata,Markdown,.\clones\netdata\web\api\README.md,5,0,9
+netdata,C/C++ Header,.\clones\netdata\web\api\badges\web_buffer_svg.h,6,1,9
+netdata,make,.\clones\netdata\web\api\exporters\Makefile.am,3,1,9
+netdata,Python,.\clones\netdata\.github\scripts\gen-docker-tags.py,5,0,8
+netdata,Bourne Shell,.\clones\netdata\.github\scripts\run-updater-check.sh,1,0,8
+netdata,Markdown,.\clones\netdata\BREAKING_CHANGES.md,3,0,8
+netdata,C/C++ Header,.\clones\netdata\aclk\aclk_otp.h,5,1,8
+netdata,make,.\clones\netdata\backends\aws_kinesis\Makefile.am,3,1,8
+netdata,C/C++ Header,.\clones\netdata\backends\aws_kinesis\aws_kinesis.h,5,1,8
+netdata,C/C++ Header,.\clones\netdata\backends\mongodb\mongodb.h,7,1,8
+netdata,Dockerfile,.\clones\netdata\build_external\make-install.Dockerfile,2,1,8
+netdata,Dockerfile,.\clones\netdata\build_external\scenarios\aclk-testing\paho.Dockerfile,4,0,8
+netdata,YAML,.\clones\netdata\build_external\scenarios\only-agent\docker-compose.yml,0,0,8
+netdata,make,.\clones\netdata\collectors\apps.plugin\Makefile.am,3,1,8
+netdata,Markdown,.\clones\netdata\collectors\freebsd.plugin\README.md,4,0,8
+netdata,Markdown,.\clones\netdata\collectors\macos.plugin\README.md,4,0,8
+netdata,JavaScript,.\clones\netdata\collectors\node.d.plugin\node_modules\lib\ber\errors.js,1,1,8
+netdata,make,.\clones\netdata\database\Makefile.am,3,1,8
+netdata,make,.\clones\netdata\database\engine\Makefile.am,3,1,8
+netdata,make,.\clones\netdata\exporting\prometheus\Makefile.am,3,1,8
+netdata,make,.\clones\netdata\libnetdata\storage_number\Makefile.am,3,1,8
+netdata,make,.\clones\netdata\streaming\Makefile.am,3,1,8
+netdata,SVG,.\clones\netdata\web\gui\dashboard\images\netdata-logomark.svg,0,0,8
+netdata,XML,.\clones\netdata\web\gui\dashboard\sitemap.xml,0,1,8
+netdata,make,.\clones\netdata\web\server\Makefile.am,3,1,8
+netdata,YAML,.\clones\netdata\.squash.yml,0,0,7
+netdata,Dockerfile,.\clones\netdata\build_external\scenarios\aclk-testing\configureVerneMQ.Dockerfile,0,1,7
+netdata,Markdown,.\clones\netdata\collectors\charts.d.plugin\example\README.md,3,0,7
+netdata,Markdown,.\clones\netdata\collectors\checks.plugin\README.md,3,0,7
+netdata,C/C++ Header,.\clones\netdata\collectors\macos.plugin\plugin_macos.h,4,1,7
+netdata,Markdown,.\clones\netdata\libnetdata\README.md,3,0,7
+netdata,Markdown,.\clones\netdata\libnetdata\json\README.md,3,0,7
+netdata,Markdown,.\clones\netdata\web\api\exporters\README.md,3,0,7
+netdata,C/C++ Header,.\clones\netdata\web\api\exporters\allmetrics.h,4,1,7
+netdata,Markdown,.\clones\netdata\web\api\exporters\prometheus\README.md,3,0,7
+netdata,C/C++ Header,.\clones\netdata\web\api\formatters\charts2json.h,4,1,7
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\lib\jquery.peity-3.2.0.min.js,0,7,7
+netdata,make,.\clones\netdata\web\server\static\Makefile.am,3,1,7
+netdata,Bourne Shell,.\clones\netdata\build_external\bin\make-install.sh,2,0,6
+netdata,YAML,.\clones\netdata\build_external\scenarios\aclk-testing\paho-compose.yml,0,0,6
+netdata,YAML,.\clones\netdata\build_external\scenarios\aclk-testing\vernemq-compose.yml,0,0,6
+netdata,C/C++ Header,.\clones\netdata\database\engine\metadata_log\metadatalogapi.h,4,2,6
+netdata,HTML,.\clones\netdata\tests\web\fixtures\easypiechart.chart.fixture1.html,0,0,6
+netdata,C/C++ Header,.\clones\netdata\web\api\formatters\csv\csv.h,5,1,6
+netdata,C/C++ Header,.\clones\netdata\web\api\formatters\json_wrapper.h,4,1,6
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard_info_custom_example.js,12,44,6
+netdata,Bourne Shell,.\clones\netdata\.github\scripts\bump-packaging-version.sh,1,0,5
+netdata,diff,.\clones\netdata\contrib\sles11\netdata-alarms-bash3.patch,0,5,5
+netdata,C/C++ Header,.\clones\netdata\database\sqlite\sqlite_aclk_node.h,2,1,5
+netdata,C/C++ Header,.\clones\netdata\libnetdata\string\utf8.h,3,1,5
+netdata,make,.\clones\netdata\ml\Makefile.am,2,1,5
+netdata,make,.\clones\netdata\spawn\Makefile.am,3,1,5
+netdata,C/C++ Header,.\clones\netdata\web\api\formatters\json\json.h,4,1,5
+netdata,C/C++ Header,.\clones\netdata\web\api\formatters\rrdset2json.h,4,1,5
+netdata,C/C++ Header,.\clones\netdata\web\api\formatters\ssv\ssv.h,4,1,5
+netdata,C/C++ Header,.\clones\netdata\web\api\formatters\value\value.h,4,1,5
+netdata,make,.\clones\netdata\web\api\queries\sum\Makefile.am,2,1,5
+netdata,Markdown,.\clones\netdata\web\gui\.dashboard-notice.md,2,0,5
+netdata,C/C++ Header,.\clones\netdata\web\server\static\static-threaded.h,4,1,5
+netdata,C/C++ Header,.\clones\netdata\cli\cli.h,3,1,4
+netdata,JavaScript,.\clones\netdata\collectors\node.d.plugin\node_modules\asn1-ber.js,2,1,4
+netdata,diff,.\clones\netdata\contrib\sles11\netdata-automake-no-dist-xz.patch,2,7,4
+netdata,Bourne Shell,.\clones\netdata\health\notifications\alarm-test.sh,2,6,4
+netdata,Markdown,.\clones\netdata\libnetdata\clocks\README.md,1,0,4
+netdata,Markdown,.\clones\netdata\libnetdata\dictionary\README.md,1,0,4
+netdata,Markdown,.\clones\netdata\libnetdata\ebpf\README.md,1,0,4
+netdata,make,.\clones\netdata\libnetdata\health\Makefile.am,2,1,4
+netdata,Markdown,.\clones\netdata\libnetdata\locks\README.md,1,0,4
+netdata,Markdown,.\clones\netdata\libnetdata\log\README.md,1,0,4
+netdata,Markdown,.\clones\netdata\libnetdata\popen\README.md,1,0,4
+netdata,Markdown,.\clones\netdata\libnetdata\socket\README.md,1,0,4
+netdata,Markdown,.\clones\netdata\libnetdata\statistical\README.md,1,0,4
+netdata,Markdown,.\clones\netdata\libnetdata\threads\README.md,1,0,4
+netdata,Markdown,.\clones\netdata\libnetdata\url\README.md,1,0,4
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\lib\dygraph-c91c859.min.js,0,3,4
+netdata,Python,.\clones\netdata\collectors\python.d.plugin\python_modules\urllib3\packages\__init__.py,2,0,3
+netdata,Bourne Shell,.\clones\netdata\packaging\makeself\build-x86_64-static.sh,3,1,3
+netdata,CSS,.\clones\netdata\web\gui\dashboard\static\css\2.20fd0a40.chunk.css,1,11,3
+netdata,SVG,.\clones\netdata\web\gui\static\img\netdata-logomark.svg,0,0,3
+netdata,SVG,.\clones\netdata\diagrams\data_structures\netdata_config.svg,0,0,2
+netdata,SVG,.\clones\netdata\diagrams\data_structures\registry.svg,0,0,2
+netdata,SVG,.\clones\netdata\diagrams\data_structures\rrd.svg,0,0,2
+netdata,SVG,.\clones\netdata\diagrams\data_structures\web.svg,0,0,2
+netdata,Bourne Shell,.\clones\netdata\health\notifications\alarm-email.sh,2,3,2
+netdata,make,.\clones\netdata\ml\kmeans\Makefile.am,1,1,2
+netdata,Bourne Shell,.\clones\netdata\packaging\makeself\post-installer.sh,2,7,2
+netdata,XML,.\clones\netdata\web\gui\browserconfig.xml,0,0,2
+netdata,CSS,.\clones\netdata\web\gui\css\morris-0.5.1.css,0,1,2
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\lib\bootstrap-3.3.7.min.js,0,6,2
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\lib\bootstrap-slider-10.0.0.min.js,0,4,2
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\lib\bootstrap-table-1.11.0.min.js,0,7,2
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\lib\clipboard-polyfill-be05dad.js,0,7,2
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\lib\jquery.sparkline-2.1.2.min.js,1,3,2
+netdata,Dockerfile,.\clones\netdata\Dockerfile,0,0,1
+netdata,XML,.\clones\netdata\diagrams\data_structures\src\netdata_config.xml,0,0,1
+netdata,XML,.\clones\netdata\diagrams\data_structures\src\registry.xml,0,0,1
+netdata,XML,.\clones\netdata\diagrams\data_structures\src\rrd.xml,0,0,1
+netdata,XML,.\clones\netdata\diagrams\data_structures\src\web.xml,0,0,1
+netdata,XML,.\clones\netdata\diagrams\netdata-for-ephemeral-nodes.xml,0,0,1
+netdata,XML,.\clones\netdata\diagrams\netdata-overview.xml,0,0,1
+netdata,XML,.\clones\netdata\diagrams\netdata-proxies-example.xml,0,0,1
+netdata,Markdown,.\clones\netdata\libnetdata\eval\README.md,0,0,1
+netdata,Bourne Shell,.\clones\netdata\packaging\installer\kickstart-static64.sh,0,0,1
+netdata,Markdown,.\clones\netdata\tests\ebpf\README.md,0,0,1
+netdata,JSON,.\clones\netdata\tests\health_mgmtapi\expected_list\ALARM_CPU_IOWAIT-list.json,0,0,1
+netdata,JSON,.\clones\netdata\tests\health_mgmtapi\expected_list\ALARM_CPU_USAGE-list.json,0,0,1
+netdata,JSON,.\clones\netdata\tests\health_mgmtapi\expected_list\CONTEXT_SYSTEM_CPU-list.json,0,0,1
+netdata,JSON,.\clones\netdata\tests\health_mgmtapi\expected_list\DISABLE-list.json,0,0,1
+netdata,JSON,.\clones\netdata\tests\health_mgmtapi\expected_list\DISABLE_ALL-list.json,0,0,1
+netdata,JSON,.\clones\netdata\tests\health_mgmtapi\expected_list\DISABLE_ALL_ERROR-list.json,0,0,1
+netdata,JSON,.\clones\netdata\tests\health_mgmtapi\expected_list\DISABLE_SYSTEM_LOAD-list.json,0,0,1
+netdata,JSON,.\clones\netdata\tests\health_mgmtapi\expected_list\FAMILIES_LOAD-list.json,0,0,1
+netdata,JSON,.\clones\netdata\tests\health_mgmtapi\expected_list\HOSTS-list.json,0,0,1
+netdata,JSON,.\clones\netdata\tests\health_mgmtapi\expected_list\RESET-list.json,0,0,1
+netdata,JSON,.\clones\netdata\tests\health_mgmtapi\expected_list\SILENCE_2-list.json,0,0,1
+netdata,JSON,.\clones\netdata\tests\health_mgmtapi\expected_list\SILENCE_3-list.json,0,0,1
+netdata,JSON,.\clones\netdata\tests\health_mgmtapi\expected_list\SILENCE_ALARM_CPU_USAGE-list.json,0,0,1
+netdata,JSON,.\clones\netdata\tests\health_mgmtapi\expected_list\SILENCE_ALARM_CPU_USAGE_LOAD_TRIGGER-list.json,0,0,1
+netdata,JSON,.\clones\netdata\tests\health_mgmtapi\expected_list\SILENCE_ALL-list.json,0,0,1
+netdata,CSS,.\clones\netdata\web\gui\css\c3-0.4.18.min.css,0,1,1
+netdata,Markdown,.\clones\netdata\web\gui\dashboard\README.md,0,0,1
+netdata,CSS,.\clones\netdata\web\gui\dashboard\css\bootstrap-slider-10.0.0.min.css,0,21,1
+netdata,CSS,.\clones\netdata\web\gui\dashboard\css\bootstrap-theme-3.3.7.min.css,0,6,1
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\lib\bootstrap-table-export-1.11.0.min.js,0,7,1
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\lib\bootstrap-toggle-2.2.2.min.js,0,9,1
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\lib\d3-4.12.2.min.js,0,2,1
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\lib\fontawesome-all-5.0.1.min.js,0,5,1
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\lib\gauge-1.3.2.min.js,0,1,1
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\lib\jquery-3.6.0.min.js,0,1,1
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\lib\jquery.easypiechart-97b5824.min.js,0,9,1
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\lib\lz-string-1.4.4.min.js,0,1,1
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\lib\pako-1.0.6.min.js,0,1,1
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\lib\perfect-scrollbar-0.6.15.min.js,0,2,1
+netdata,CSS,.\clones\netdata\web\gui\dashboard\static\css\4.a36e3b73.chunk.css,0,41,1
+netdata,CSS,.\clones\netdata\web\gui\dashboard\static\css\main.a46a34fa.chunk.css,0,1,1
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\static\js\10.eb10af4d.chunk.js,0,1,1
+netdata,XML,.\clones\netdata\web\gui\dashboard\static\js\10.eb10af4d.chunk.js.map,0,0,1
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\static\js\2.da522cd4.chunk.js,0,2,1
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\static\js\3.6267b47a.chunk.js,0,1,1
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\static\js\4.89bcbd92.chunk.js,0,1,1
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\static\js\5.8d493428.chunk.js,0,2,1
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\static\js\6.fd3732fc.chunk.js,0,1,1
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\static\js\7.c4cdb9f0.chunk.js,0,1,1
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\static\js\8.11ff05e7.chunk.js,0,1,1
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\static\js\9.84b7c771.chunk.js,0,1,1
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\static\js\main.e3f3d31b.chunk.js,0,2,1
+netdata,JavaScript,.\clones\netdata\web\gui\dashboard\static\js\runtime-main.ec4d2459.js,0,1,1
+netdata,Pascal,.\clones\netdata\web\gui\src\dashboard.js\epilogue.js.inc,0,0,1
